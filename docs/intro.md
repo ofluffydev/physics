@@ -314,5 +314,3 @@ Welcome to my physics course!
 - Radiation therapy
 - Medical imaging (MRI, CT, PET)
 - Radiobiology
-
-This comprehensive list covers a wide range of physics topics from beginner to advanced levels. It includes fundamental areas like classical mechanics, thermodynamics, and electromagnetism, as well as more specialized fields such as astrophysics, particle physics, and advanced theoretical concepts. The list is organized hierarchically to show the relationships between different areas of physics and their progression from basic to more complex topics.
