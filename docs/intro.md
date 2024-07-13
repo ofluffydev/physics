@@ -9,8 +9,9 @@ Most of my previous courses are in programming and computer science, but why not
 
 Welcome to my physics course!
 
+For AP Physics students, I have a [list specifically for you](ap-physics-list.md).
 
-# For everyone interested in physics
+For everyone interested in physics:
 
 ## Comprehensive Physics Topics (Beginner to Advanced)
 
@@ -18,6 +19,7 @@ Welcome to my physics course!
 
 ### 1.1 Kinematics
 
+- Kinematics intro
 - One-dimensional motion
 - Two-dimensional motion
 - Three-dimensional motion
