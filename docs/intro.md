@@ -15,12 +15,12 @@ For everyone interested in physics:
 
 ## Comprehensive Physics Topics (Beginner to Advanced)
 
-## 1. Classical Mechanics
+## [1. Classical Mechanics](/docs/category/classical-mechanics)
 
-### 1.1 Kinematics
+### [1.1 Kinematics](/docs/category/kinematics)
 
-- Kinematics intro
-- One-dimensional motion
+- [Kinematics intro](/docs/classical-mechanics/kinematics/kinematics-intro)
+- [One-dimensional motion](/docs/classical-mechanics/kinematics/one-dimensional-motion)
 - Two-dimensional motion
 - Three-dimensional motion
 - Vectors and scalars

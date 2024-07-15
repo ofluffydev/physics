@@ -24,3 +24,10 @@ The magnitude of a physical quantity is its size or quantity, irrespective of it
 A scalar is a physical quantity that has **magnitude** only and no direction in space. Examples of scalars include mass, temperature, and speed.
 
 
+## Vector
+
+**Quick Definition**: A quantity with both magnitude and direction.
+
+**Origin**: Latin "vector" meaning "carrier" or "one who carries".
+
+A vector is a mathematical object that represents a physical quantity with both magnitude and direction. Unlike scalars, vectors require both a numerical value (magnitude) and a specified direction to be fully defined. Examples of vectors include displacement, velocity, force, and acceleration. In physics and engineering, vectors are often represented graphically as arrows, where the length of the arrow indicates the magnitude and the orientation shows the direction.
