@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
+import React, {useState} from 'react';
 import {Alert, AlertDescription} from "@site/src/components/ui/alert";
 import {Button} from "@site/src/components/ui/button";
 
-const PracticeQuestion = ({ question, options, correctAnswer }) => {
+const PracticeQuestion = ({question, options, correctAnswer}) => {
     const [selectedAnswer, setSelectedAnswer] = useState(null);
     const [isCorrect, setIsCorrect] = useState(null);
     const [attempts, setAttempts] = useState(0);
@@ -33,7 +33,7 @@ const PracticeQuestion = ({ question, options, correctAnswer }) => {
                     <Button
                         key={index}
                         variant={selectedAnswer === option ? "default" : "outline"}
-                        className="w-full justify-start"
+                        className="w-full text-white rounded-2xl justify-start"
                         onClick={() => handleAnswerSelect(option)}
                     >
                         {option}
@@ -41,12 +41,12 @@ const PracticeQuestion = ({ question, options, correctAnswer }) => {
                 ))}
             </div>
             <div className="mt-4">
-                <Button onClick={handleSubmit} disabled={selectedAnswer === null}>
+                <Button className="text-white" onClick={handleSubmit} disabled={selectedAnswer === null}>
                     Submit Answer
                 </Button>
             </div>
             {isCorrect !== null && (
-                <Alert className={`mt-4 ${isCorrect ? 'bg-green-100' : 'bg-red-100'}`}>
+                <Alert className={`mt-4 text-black ${isCorrect ? 'bg-green-100' : 'bg-red-100'}`}>
                     <AlertDescription>
                         {isCorrect
                             ? "Correct! Well done!"
@@ -55,7 +55,7 @@ const PracticeQuestion = ({ question, options, correctAnswer }) => {
                 </Alert>
             )}
             {!isCorrect && attempts > 0 && (
-                <Button onClick={handleTryAgain} className="mt-2">
+                <Button onClick={handleTryAgain} className="mt-2 text-white">
                     Try Again
                 </Button>
             )}
