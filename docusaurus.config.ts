@@ -36,7 +36,7 @@ const config: Config = {
     themeConfig: {
         image: 'img/social-card.jpg', navbar: {
             title: 'Fluffy Physics', logo: {
-                alt: 'Fluffy Physics Logo', src: 'img/logo.svg',
+                alt: 'Fluffy Physics Logo', src: 'img/Logo.png',
             }, items: [{
                 type: 'docSidebar', sidebarId: 'tutorialSidebar', position: 'left', label: 'Get Started',
             }, {

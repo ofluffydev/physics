@@ -9,9 +9,29 @@ Most of my previous courses are in programming and computer science, but why not
 
 Welcome to my physics course!
 
+As always, here are the list of rules for the course:
+
+# Rules
+
+**IF THIS TEXT IS STILL HERE, THE COURSE IS NOT FINISHED AND MAY NOT COMPLY WITH ALL OF THESE RULES YET.**
+**APOLOGIES FOR ANY INCONVENIENCE.**
+
+The following **rules** apply to every page and topic on this platform:
+
+1. **Free**, no cost at all to the user. Knowledge should only cost effort and dedication, not money.
+2. **No advertisements or distractions whatsoever**; none of the pages have ads.
+3. **Every topic and subtopic will have its own dedicated page/document**. This way users won't have to search for hours through one page to find what they need.
+4. **Always available**. Unless server outages or power surges/losses occur, this information shall be preserved. It will only be updated, never removed, and updates cannot remove a significant amount of content unless it's deemed inaccurate or flawed.
+5. **Printable**. Every page will have PDFs available to print out to use for any case where the online version isn't suitable. On top of this, a ZIP archive of every page on this website will be available to download in bulk.
+6. **Accessible**. The site will follow accessibility rules, knowledge shouldn't be inaccessible due to disabilities. This website will conform to the WCAG standards.
+7. **Account-less**. No account required. You won't have to have any form of account to access this information, the only time you'll need one is if I ever add progress tracking and custom lessons, which probably won't be for a while.
+8. **No REQUIRED links to external tutorials and classes**. There may be links to credible sources and recommended tutorials, but this course will still go over anything linked to ensure the rules above are protected and learners continue to have a free and convenient experience.
+
+Good luck!
+
 For AP Physics students, I have a [list specifically for you](ap-physics-list.md).
 
-For everyone interested in physics:
+For everyone else interested in physics:
 
 ## Comprehensive Physics Topics (Beginner to Advanced)
 
@@ -21,9 +41,9 @@ For everyone interested in physics:
 
 - [Kinematics intro](/docs/classical-mechanics/kinematics/kinematics-intro)
 - [One-dimensional motion](/docs/classical-mechanics/kinematics/one-dimensional-motion)
-- Two-dimensional motion
-- Three-dimensional motion
-- Vectors and scalars
+- [Two-dimensional motion](/docs/classical-mechanics/kinematics/two-dimensional-motion)
+- [Three-dimensional motion](/docs/classical-mechanics/kinematics/three-dimensional-motion)
+- [Vectors and scalars](/docs/classical-mechanics/kinematics/vectors-and-scalars)
 - Displacement, velocity, and acceleration
 - Projectile motion
 - Relative motion

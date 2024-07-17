@@ -1,6 +1,6 @@
 ---
 title: Two-Dimensional Motion
-sidebar_position: 2
+sidebar_position: 3
 sidebar_label: 2D Motion
 ---
 
@@ -201,4 +201,3 @@ Understanding two-dimensional motion is crucial for analyzing real-world scenari
 
 3. An airplane flies with a velocity of 200 m/s east and climbs at an angle of 10° above the horizontal. What are the horizontal and vertical components of its velocity?
 
-(Solutions to these problems can be worked out using the principles and equations discussed in this lesson.)
