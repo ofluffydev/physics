@@ -1,0 +1,8 @@
+{
+  "label": "Force and Translational Dynamics",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "A section about force and translational dynamics.",
+  }
+}

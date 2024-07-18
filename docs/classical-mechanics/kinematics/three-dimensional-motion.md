@@ -4,7 +4,7 @@ sidebar_position: 4
 sidebar_label: 3D Motion
 ---
 
-# Lesson: Three-Dimensional Motion in Kinematics
+# Three-Dimensional Motion in Kinematics
 
 ## Introduction
 
@@ -73,32 +73,16 @@ For constant acceleration, we extend the equations of motion to three dimensions
 A spacecraft is launched with an initial velocity of 1000 m/s at an angle of 60° to the horizontal and 30° east of north. Calculate its position after 10 seconds, assuming no air resistance and constant gravitational acceleration of 9.8 m/s² downward.
 
 Solution:
-1. Decompose initial velocity:
-   v₀x = 1000 * cos(60°) * cos(30°) = 433 m/s
-   v₀y = 1000 * cos(60°) * sin(30°) = 250 m/s
-   v₀z = 1000 * sin(60°) = 866 m/s
 
-2. Apply equations of motion:
-   x = 0 + 433 * 10 = 4330 m
-   y = 0 + 250 * 10 = 2500 m
-   z = 0 + 866 * 10 - ½ * 9.8 * 10² = 8170 m
-
-The spacecraft's position after 10 seconds: (4330 m, 2500 m, 8170 m)
+TODO: Add solution for spacecraft motion example
 
 ### Example 2: Particle in a Magnetic Field
 
 A charged particle enters a uniform magnetic field with velocity v = (2i + 3j + 4k) m/s. The magnetic field is B = (0i + 0j + 1k) Tesla. Calculate the initial acceleration of the particle if its charge-to-mass ratio (q/m) is 2 C/kg.
 
 Solution:
-The acceleration is given by the Lorentz force law: a = (q/m)(v × B)
 
-1. Calculate cross product v × B:
-   v × B = (3 - 2)i + (-4 - 0)j + (0 - 0)k = i - 4j
-
-2. Multiply by charge-to-mass ratio:
-   a = 2(i - 4j) = 2i - 8j m/s²
-
-The initial acceleration is (2, -8, 0) m/s².
+TODO: Add solution for particle in magnetic field example
 
 ## Applications of 3D Motion
 

@@ -104,21 +104,8 @@ When solving kinematics problems involving vectors:
 A car travels 30 m east, then 40 m north, and finally 20 m east. Calculate its total displacement.
 
 Solution:
-1. Define vectors:
-   A→ = 30î (first eastward movement)
-   B→ = 40ĵ (northward movement)
-   C→ = 20î (second eastward movement)
 
-2. Add vectors:
-   D→ = A→ + B→ + C→ = (30 + 20)î + 40ĵ = 50î + 40ĵ
-
-3. Calculate magnitude:
-   |D| = √(50² + 40²) = 64.03 m
-
-4. Calculate direction:
-   θ = tan⁻¹(40/50) = 38.66° north of east
-
-Therefore, the total displacement is 64.03 m at 38.66° north of east.
+TODO: Add solution
 
 ## Conclusion
 

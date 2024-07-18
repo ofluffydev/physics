@@ -3,7 +3,7 @@ title: Introduction
 sidebar_position: 1
 ---
 
-Hello.
+# Introduction
 
 Most of my previous courses are in programming and computer science, but why not try something new?
 
@@ -11,7 +11,7 @@ Welcome to my physics course!
 
 As always, here are the list of rules for the course:
 
-# Rules
+## Rules
 
 **IF THIS TEXT IS STILL HERE, THE COURSE IS NOT FINISHED AND MAY NOT COMPLY WITH ALL OF THESE RULES YET.**
 **APOLOGIES FOR ANY INCONVENIENCE.**
@@ -44,14 +44,15 @@ For everyone else interested in physics:
 - [Two-dimensional motion](/docs/classical-mechanics/kinematics/two-dimensional-motion)
 - [Three-dimensional motion](/docs/classical-mechanics/kinematics/three-dimensional-motion)
 - [Vectors and scalars](/docs/classical-mechanics/kinematics/vectors-and-scalars)
-- Displacement, velocity, and acceleration
-- Projectile motion
-- Relative motion
+- [Displacement, velocity, and acceleration](/docs/classical-mechanics/kinematics/displacement-velocity-and-acceleration)
+- [Projectile motion](/docs/classical-mechanics/kinematics/projectile-motion)
+- [Relative motion](/docs/classical-mechanics/kinematics/relative-motion)
+- [Bonus Lesson: Four Dimensional Motion](/docs/classical-mechanics/kinematics/four-dimensional-motion)
 
-### 1.2 Force and Translational Dynamics
+### [1.2 Force and Translational Dynamics](/docs/category/force-and-translational-dynamics)
 
-- Newton's laws of motion
-- Types of forces (friction, tension, normal, etc.)
+- [Newton's laws of motion](/docs/classical-mechanics/force-and-translational-dynamics/newtons-laws-of-motion)
+- [Types of forces (friction, tension, normal, etc.)](/docs/classical-mechanics/force-and-translational-dynamics/types-of-forces)
 - Free-body diagrams
 - Statics and equilibrium
 - Dynamics of systems of particles

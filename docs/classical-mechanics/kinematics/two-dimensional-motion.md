@@ -4,7 +4,7 @@ sidebar_position: 3
 sidebar_label: 2D Motion
 ---
 
-# Lesson: Two-Dimensional Motion in Kinematics
+# Two-Dimensional Motion
 
 ## Introduction
 
@@ -169,25 +169,7 @@ c) The total time of flight
 d) The horizontal distance traveled
 
 Solution:
-
-1. Initial conditions:
-   v₀ = 20 m/s, θ = 30°, g = 9.8 m/s²
-   v₀x = v₀cosθ = 20cos30° = 17.32 m/s
-   v₀y = v₀sinθ = 20sin30° = 10 m/s
-
-2. Maximum height (when vy = 0):
-   vy² = v₀y² - 2gy
-   0 = 10² - 2(9.8)y
-   y = 5.1 m
-
-3. Time to max height:
-   t = v₀y / g = 10 / 9.8 = 1.02 s
-
-4. Total time of flight (2 × time to max height):
-   T = 2 × 1.02 = 2.04 s
-
-5. Horizontal distance:
-   x = v₀x × T = 17.32 × 2.04 = 35.33 m
+TODO: Add detailed solution steps
 
 ## Conclusion
 
