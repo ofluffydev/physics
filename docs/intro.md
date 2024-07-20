@@ -62,11 +62,11 @@ For everyone else interested in physics:
 ### 1.3 Work, Energy, and Power
 
 - [Work-energy theorem](/docs/classical-mechanics/work-energy-and-power/work-energy-theorem)
-- Kinetic energy
-- Potential energy (gravitational and elastic)
-- Conservation of energy
-- Power
-- Dissipative forces and energy loss
+- [Kinetic energy](/docs/classical-mechanics/work-energy-and-power/kinetic-energy)
+- [Potential energy (gravitational and elastic)](/docs/classical-mechanics/work-energy-and-power/potential-energy)
+- [Conservation of energy](/docs/classical-mechanics/work-energy-and-power/conservation-of-energy)
+- [Power](/docs/classical-mechanics/work-energy-and-power/power)
+- [Dissipative forces and energy loss](/docs/classical-mechanics/work-energy-and-power/dissipative-forces-and-energy-loss)
 
 ### 1.4 Linear Momentum
 
