@@ -35,6 +35,87 @@ For everyone else interested in physics:
 
 ## Comprehensive Physics Topics (Beginner to Advanced)
 
+## [0. Mathematical Methods in Physics](/docs/category/mathematical-methods-in-physics)
+This section is numbered 0 because it is not a physics topic, but a prerequisite for understanding physics. It will cover the mathematical methods used in physics, such as calculus, linear algebra, differential equations, and complex analysis.
+
+Read this first:
+- [Introduction to Mathematical Methods in Physics](/docs/mathematical-methods-in-physics/intro)
+
+### 0.1. Scalars and Vectors
+- Definition and properties of scalars
+- Definition and properties of vectors
+- Vector operations (addition, subtraction, scalar multiplication)
+- Dot product and cross product
+- Unit vectors and vector components
+
+### 0.2. Coordinate Systems
+- Cartesian coordinates
+- Polar coordinates
+- Spherical coordinates
+- Coordinate transformations
+
+### 0.3. Vector Calculus
+- Vector functions
+- Differentiation of vectors
+- Integration of vectors
+- Gradient, divergence, and curl
+- Line integrals and surface integrals
+
+### 0.4. Matrices and Determinants
+- Matrix operations
+- Determinants
+- Inverse matrices
+- Eigenvalues and eigenvectors
+
+### 0.5. Differential Equations
+- Ordinary differential equations (ODEs)
+- Partial differential equations (PDEs)
+- Separation of variables
+- Series solutions
+
+### 0.6. Complex Numbers
+- Definition and properties
+- Complex algebra
+- Euler's formula
+- Complex exponentials
+
+### 0.7. Fourier Analysis
+- Fourier series
+- Fourier transforms
+- Applications in wave physics and signal processing
+
+### 0.8. Probability and Statistics
+- Probability distributions
+- Mean, median, and mode
+- Standard deviation and variance
+- Error analysis and propagation
+
+### 0.9. Tensor Analysis
+- Introduction to tensors
+- Tensor operations
+- Applications in mechanics and relativity
+
+### 0.10. Numerical Methods
+- Numerical integration
+- Root-finding algorithms
+- Interpolation and extrapolation
+- Finite difference methods
+
+Each of these topics plays a crucial role in various areas of physics:
+
+1. Scalars and Vectors: Essential for describing physical quantities and their interactions.
+2. Coordinate Systems: Important for describing motion and fields in different geometries.
+3. Vector Calculus: Fundamental for electromagnetism and fluid dynamics.
+4. Matrices and Determinants: Used in quantum mechanics and solving systems of equations.
+5. Differential Equations: Crucial for describing time-dependent systems and fields.
+6. Complex Numbers: Important in quantum mechanics and AC circuit analysis.
+7. Fourier Analysis: Used in wave optics, quantum mechanics, and signal processing.
+8. Probability and Statistics: Essential for quantum mechanics and experimental data analysis.
+9. Tensor Analysis: Important for general relativity and continuum mechanics.
+10. Numerical Methods: Crucial for solving complex problems that lack analytical solutions.
+
+This category will provide students with the mathematical foundation necessary to tackle advanced physics concepts and problem-solving.
+
 ## [1. Classical Mechanics](/docs/category/classical-mechanics)
 
 ### [1.1 Kinematics](/docs/category/kinematics)
