@@ -53,9 +53,9 @@ For everyone else interested in physics:
 
 - [Newton's laws of motion](/docs/classical-mechanics/force-and-translational-dynamics/newtons-laws-of-motion)
 - [Types of forces (friction, tension, normal, etc.)](/docs/classical-mechanics/force-and-translational-dynamics/types-of-forces)
-- Free-body diagrams
-- Statics and equilibrium
-- Dynamics of systems of particles
+- [Free-body diagrams](/docs/classical-mechanics/force-and-translational-dynamics/free-body-diagrams)
+- [Statics and equilibrium](/docs/classical-mechanics/force-and-translational-dynamics/statics-and-equilibrium)
+- [Dynamics of systems of particles](/docs/classical-mechanics/force-and-translational-dynamics/dynamics-of-systems-of-particles)
 - Center of mass
 - Impulse
 
