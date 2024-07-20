@@ -56,12 +56,12 @@ For everyone else interested in physics:
 - [Free-body diagrams](/docs/classical-mechanics/force-and-translational-dynamics/free-body-diagrams)
 - [Statics and equilibrium](/docs/classical-mechanics/force-and-translational-dynamics/statics-and-equilibrium)
 - [Dynamics of systems of particles](/docs/classical-mechanics/force-and-translational-dynamics/dynamics-of-systems-of-particles)
-- Center of mass
-- Impulse
+- [Center of mass](/docs/classical-mechanics/force-and-translational-dynamics/center-of-mass)
+- [Impulse](/docs/classical-mechanics/force-and-translational-dynamics/impulse)
 
 ### 1.3 Work, Energy, and Power
 
-- Work-energy theorem
+- [Work-energy theorem](/docs/classical-mechanics/work-energy-and-power/work-energy-theorem)
 - Kinetic energy
 - Potential energy (gravitational and elastic)
 - Conservation of energy
