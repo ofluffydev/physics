@@ -1,0 +1,8 @@
+{
+  "label": "Coordinate Systems",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Coordinate Systems are used throughout physics to describe the position of objects in space. This section covers the most common coordinate systems used in physics."
+  }
+}

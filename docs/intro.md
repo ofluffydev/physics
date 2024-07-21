@@ -45,11 +45,11 @@ Read this first:
 - [Definition and properties of scalars](/docs/mathematical-methods-in-physics/scalars-and-vectors/definition-and-properties-of-scalars)
 - [Definition and properties of vectors](/docs/mathematical-methods-in-physics/scalars-and-vectors/definition-and-properties-of-vectors)
 - [Vector operations (addition, subtraction, scalar multiplication)](/docs/mathematical-methods-in-physics/scalars-and-vectors/vector-operations)
-- Dot product and cross product
-- Unit vectors and vector components
+- [Dot product and cross product](/docs/mathematical-methods-in-physics/scalars-and-vectors/dot-product-and-cross-product)
+- [Unit vectors and vector components](/docs/mathematical-methods-in-physics/scalars-and-vectors/unit-vectors-and-vector-components)
 
 ### 0.2. Coordinate Systems
-- Cartesian coordinates
+- [Cartesian coordinates](/docs/mathematical-methods-in-physics/coordinate-systems/cartesian-coordinates)
 - Polar coordinates
 - Spherical coordinates
 - Coordinate transformations

@@ -30,6 +30,12 @@ Where |A| and |B| are the magnitudes of vectors A and B, and θ is the angle bet
 
 ### Calculation in Cartesian Coordinates
 
+Cartesian coordinates were introduced by René Descartes in the 17th century. They provide a way to represent points in space using numerical values along orthogonal axes.
+
+They help in calculating the dot product of two vectors.
+
+Below, we'll use the notation (a₁, a₂, a₃) to represent a vector in three-dimensional space, where a₁, a₂, and a₃ are the components along the x, y, and z axes, respectively.
+
 If A = (a₁, a₂, a₃) and B = (b₁, b₂, b₃), then:
 
 A · B = a₁b₁ + a₂b₂ + a₃b₃
@@ -55,13 +61,29 @@ Where n is a unit vector perpendicular to both A and B, following the right-hand
 
 ### Properties
 
-1. Anti-commutative: A × B = -(B × A)
+1. Anti-commutative: A × B = -(B × A) 
+
+   Anti-commutative means that the order of the vectors matters, and the result is negated when the order is reversed.
+
 2. Distributive over addition: A × (B + C) = (A × B) + (A × C)
+
+   Distributive property means that the cross product distributes over vector addition.
+
 3. Not associative: A × (B × C) ≠ (A × B) × C
+
+    The cross product is not associative, meaning that the order of operations matters.
+
 4. A × A = 0 (zero vector)
+
+    The cross product of a vector with itself is always the zero vector.
+
 5. If A × B = 0, the vectors are parallel
 
+    If the cross product of two vectors is zero, the vectors are parallel or antiparallel.
+
 ### Calculation in Cartesian Coordinates
+
+Similar to the dot product, Cartesian coordinates are used to calculate the cross product of two vectors.
 
 If A = (a₁, a₂, a₃) and B = (b₁, b₂, b₃), then:
 
