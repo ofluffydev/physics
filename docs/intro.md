@@ -43,8 +43,8 @@ Read this first:
 
 ###[ 0.1. Scalars and Vectors](/docs/category/scalars-and-vectors)
 - [Definition and properties of scalars](/docs/mathematical-methods-in-physics/scalars-and-vectors/definition-and-properties-of-scalars)
-- Definition and properties of vectors
-- Vector operations (addition, subtraction, scalar multiplication)
+- [Definition and properties of vectors](/docs/mathematical-methods-in-physics/scalars-and-vectors/definition-and-properties-of-vectors)
+- [Vector operations (addition, subtraction, scalar multiplication)](/docs/mathematical-methods-in-physics/scalars-and-vectors/vector-operations)
 - Dot product and cross product
 - Unit vectors and vector components
 
