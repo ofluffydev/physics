@@ -14,6 +14,8 @@ AP Physics 1's full name is "AP Physics 1: Algebra-Based." This means that the c
 ## This Course
 Although most AP/High School classes on physics assume you have prior experience with complex math, this course will include sections on the math in order to ensure everyone can follow along.
 
+For quick reference of mathematical terms, see the [dictionary](/docs/dictionary) section.
+
 ## The Role of Mathematics in Physics
 
 Mathematics serves several crucial functions in physics:

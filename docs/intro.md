@@ -41,8 +41,8 @@ This section is numbered 0 because it is not a physics topic, but a prerequisite
 Read this first:
 - [Introduction to Mathematical Methods in Physics](/docs/mathematical-methods-in-physics/intro)
 
-### 0.1. Scalars and Vectors
-- Definition and properties of scalars
+###[ 0.1. Scalars and Vectors](/docs/category/scalars-and-vectors)
+- [Definition and properties of scalars](/docs/mathematical-methods-in-physics/scalars-and-vectors/definition-and-properties-of-scalars)
 - Definition and properties of vectors
 - Vector operations (addition, subtraction, scalar multiplication)
 - Dot product and cross product
