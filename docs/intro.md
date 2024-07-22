@@ -48,24 +48,24 @@ Read this first:
 - [Dot product and cross product](/docs/mathematical-methods-in-physics/scalars-and-vectors/dot-product-and-cross-product)
 - [Unit vectors and vector components](/docs/mathematical-methods-in-physics/scalars-and-vectors/unit-vectors-and-vector-components)
 
-### 0.2. Coordinate Systems
+### [0.2. Coordinate Systems](/docs/category/coordinate-systems)
 - [Cartesian coordinates](/docs/mathematical-methods-in-physics/coordinate-systems/cartesian-coordinates)
 - [Polar coordinates](/docs/mathematical-methods-in-physics/coordinate-systems/polar-coordinates)
 - [Spherical coordinates](/docs/mathematical-methods-in-physics/coordinate-systems/spherical-coordinates)
 - [Coordinate transformations](/docs/mathematical-methods-in-physics/coordinate-systems/coordinate-transformations)
 
-### 0.3. Vector Calculus
+### [0.3. Vector Calculus](/docs/category/vector-calculus)
 - [Vector functions](/docs/mathematical-methods-in-physics/vector-calculus/vector-functions)
 - [Differentiation of vectors](/docs/mathematical-methods-in-physics/vector-calculus/differentiation-of-vectors)
 - [Integration of vectors](/docs/mathematical-methods-in-physics/vector-calculus/integration-of-vectors)
 - [Gradient, divergence, and curl](/docs/mathematical-methods-in-physics/vector-calculus/gradient-divergence-and-curl)
 - [Line integrals and surface integrals](/docs/mathematical-methods-in-physics/vector-calculus/line-integrals-and-surface-integrals)
 
-### 0.4. Matrices and Determinants
-- Matrix operations
-- Determinants
-- Inverse matrices
-- Eigenvalues and eigenvectors
+### [0.4. Matrices and Determinants](/docs/category/matrices-and-determinants)
+- [Matrix operations](/docs/mathematical-methods-in-physics/matrices-and-determinants/matrix-operations)
+- [Determinants](/docs/mathematical-methods-in-physics/matrices-and-determinants/determinants)
+- [Inverse matrices](/docs/mathematical-methods-in-physics/matrices-and-determinants/inverse-matrices)
+- [Eigenvalues and eigenvectors](/docs/mathematical-methods-in-physics/matrices-and-determinants/eigenvalues-and-eigenvectors)
 
 ### 0.5. Differential Equations
 - Ordinary differential equations (ODEs)

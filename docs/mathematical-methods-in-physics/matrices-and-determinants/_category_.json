@@ -1,0 +1,8 @@
+{
+  "label": "Matrices and Determinants",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Matrices and Determinants are used in physics to represent linear transformations and to solve systems of linear equations. This section covers the basics of matrices and determinants, including matrix operations, determinants, and matrix inverses."
+  }
+}
