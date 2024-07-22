@@ -57,9 +57,9 @@ Read this first:
 ### 0.3. Vector Calculus
 - [Vector functions](/docs/mathematical-methods-in-physics/vector-calculus/vector-functions)
 - [Differentiation of vectors](/docs/mathematical-methods-in-physics/vector-calculus/differentiation-of-vectors)
-- Integration of vectors
-- Gradient, divergence, and curl
-- Line integrals and surface integrals
+- [Integration of vectors](/docs/mathematical-methods-in-physics/vector-calculus/integration-of-vectors)
+- [Gradient, divergence, and curl](/docs/mathematical-methods-in-physics/vector-calculus/gradient-divergence-and-curl)
+- [Line integrals and surface integrals](/docs/mathematical-methods-in-physics/vector-calculus/line-integrals-and-surface-integrals)
 
 ### 0.4. Matrices and Determinants
 - Matrix operations
