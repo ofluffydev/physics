@@ -52,11 +52,11 @@ Read this first:
 - [Cartesian coordinates](/docs/mathematical-methods-in-physics/coordinate-systems/cartesian-coordinates)
 - [Polar coordinates](/docs/mathematical-methods-in-physics/coordinate-systems/polar-coordinates)
 - [Spherical coordinates](/docs/mathematical-methods-in-physics/coordinate-systems/spherical-coordinates)
-- Coordinate transformations
+- [Coordinate transformations](/docs/mathematical-methods-in-physics/coordinate-systems/coordinate-transformations)
 
 ### 0.3. Vector Calculus
-- Vector functions
-- Differentiation of vectors
+- [Vector functions](/docs/mathematical-methods-in-physics/vector-calculus/vector-functions)
+- [Differentiation of vectors](/docs/mathematical-methods-in-physics/vector-calculus/differentiation-of-vectors)
 - Integration of vectors
 - Gradient, divergence, and curl
 - Line integrals and surface integrals
