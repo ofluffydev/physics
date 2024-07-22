@@ -50,8 +50,8 @@ Read this first:
 
 ### 0.2. Coordinate Systems
 - [Cartesian coordinates](/docs/mathematical-methods-in-physics/coordinate-systems/cartesian-coordinates)
-- Polar coordinates
-- Spherical coordinates
+- [Polar coordinates](/docs/mathematical-methods-in-physics/coordinate-systems/polar-coordinates)
+- [Spherical coordinates](/docs/mathematical-methods-in-physics/coordinate-systems/spherical-coordinates)
 - Coordinate transformations
 
 ### 0.3. Vector Calculus
