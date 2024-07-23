@@ -67,8 +67,8 @@ Read this first:
 - [Inverse matrices](/docs/mathematical-methods-in-physics/matrices-and-determinants/inverse-matrices)
 - [Eigenvalues and eigenvectors](/docs/mathematical-methods-in-physics/matrices-and-determinants/eigenvalues-and-eigenvectors)
 
-### 0.5. Differential Equations
-- Ordinary differential equations (ODEs)
+### [0.5. Differential Equations](/docs/category/differential-equations)
+- [Ordinary differential equations (ODEs)](/docs/mathematical-methods-in-physics/differential-equations/ordinary-differential-equations)
 - Partial differential equations (PDEs)
 - Separation of variables
 - Series solutions
