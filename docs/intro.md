@@ -69,8 +69,8 @@ Read this first:
 
 ### [0.5. Differential Equations](/docs/category/differential-equations)
 - [Ordinary differential equations (ODEs)](/docs/mathematical-methods-in-physics/differential-equations/ordinary-differential-equations)
-- Partial differential equations (PDEs)
-- Separation of variables
+- [Partial differential equations (PDEs)](/docs/mathematical-methods-in-physics/differential-equations/partial-differential-equations)
+- [Separation of variables](/docs/mathematical-methods-in-physics/differential-equations/separation-of-variables)
 - Series solutions
 
 ### 0.6. Complex Numbers
