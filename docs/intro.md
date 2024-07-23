@@ -71,13 +71,13 @@ Read this first:
 - [Ordinary differential equations (ODEs)](/docs/mathematical-methods-in-physics/differential-equations/ordinary-differential-equations)
 - [Partial differential equations (PDEs)](/docs/mathematical-methods-in-physics/differential-equations/partial-differential-equations)
 - [Separation of variables](/docs/mathematical-methods-in-physics/differential-equations/separation-of-variables)
-- Series solutions
+- [Series solutions](/docs/mathematical-methods-in-physics/differential-equations/series-solutions)
 
 ### 0.6. Complex Numbers
-- Definition and properties
-- Complex algebra
-- Euler's formula
-- Complex exponentials
+- [Definition and properties](/docs/mathematical-methods-in-physics/complex-numbers/definition-and-properties)
+- [Complex algebra](/docs/mathematical-methods-in-physics/complex-numbers/complex-algebra)
+- [Euler's formula](/docs/mathematical-methods-in-physics/complex-numbers/eulers-formula)
+- [Complex exponentials](/docs/mathematical-methods-in-physics/complex-numbers/complex-exponentials)
 
 ### 0.7. Fourier Analysis
 - Fourier series
