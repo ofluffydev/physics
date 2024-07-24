@@ -73,16 +73,16 @@ Read this first:
 - [Separation of variables](/docs/mathematical-methods-in-physics/differential-equations/separation-of-variables)
 - [Series solutions](/docs/mathematical-methods-in-physics/differential-equations/series-solutions)
 
-### 0.6. Complex Numbers
+### [0.6. Complex Numbers](/docs/category/complex-numbers)
 - [Definition and properties](/docs/mathematical-methods-in-physics/complex-numbers/definition-and-properties)
 - [Complex algebra](/docs/mathematical-methods-in-physics/complex-numbers/complex-algebra)
 - [Euler's formula](/docs/mathematical-methods-in-physics/complex-numbers/eulers-formula)
 - [Complex exponentials](/docs/mathematical-methods-in-physics/complex-numbers/complex-exponentials)
 
-### 0.7. Fourier Analysis
-- Fourier series
-- Fourier transforms
-- Applications in wave physics and signal processing
+### [0.7. Fourier Analysis](/docs/category/fourier-analysis)
+- [Fourier series](/docs/mathematical-methods-in-physics/fourier-analysis/fourier-series)
+- [Fourier transforms](/docs/mathematical-methods-in-physics/fourier-analysis/fourier-transforms)
+- [Applications in wave physics and signal processing](/docs/mathematical-methods-in-physics/fourier-analysis/applications)
 
 ### 0.8. Probability and Statistics
 - Probability distributions
