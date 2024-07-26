@@ -1,0 +1,8 @@
+{
+    "label": "Tensor Analysis",
+    "position": 10,
+    "link": {
+        "type": "generated-index",
+        "description": "Analyzing tensors allows you to understand the behavior of physical systems. Learn how to manipulate tensors and use them to solve problems in physics."
+    }
+}

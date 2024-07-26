@@ -2,6 +2,7 @@
 title: Standard deviation and variance
 sidebar_position: 3
 ---
+
 # Standard Deviation and Variance in Physics
 
 ## Introduction
@@ -21,9 +22,10 @@ For a dataset with n values, the population variance (σ²) is calculated as:
 σ² = Σ(xᵢ - μ)² / N
 
 Where:
-- xᵢ are the individual values
-- μ is the mean of the dataset
-- N is the total number of values
+
+-   xᵢ are the individual values
+-   μ is the mean of the dataset
+-   N is the total number of values
 
 For a sample (subset of a population), we often use the sample variance (s²):
 
@@ -46,6 +48,7 @@ Consider the kinetic energies (in joules) of five particles in a gas:
 2.3 × 10⁻²², 2.5 × 10⁻²², 2.1 × 10⁻²², 2.4 × 10⁻²², 2.2 × 10⁻²²
 
 To calculate the variance:
+
 1. Find the mean
 2. Calculate the squared differences from the mean
 3. Sum these differences
@@ -96,8 +99,8 @@ TODO: Add solution
 
 ## Relationship Between Variance and Standard Deviation
 
-- Variance = (Standard Deviation)²
-- Standard Deviation = √(Variance)
+-   Variance = (Standard Deviation)²
+-   Standard Deviation = √(Variance)
 
 This relationship is important because while variance provides a fundamental measure of variability, standard deviation is often more interpretable as it's in the same units as the original data.
 

@@ -55,8 +55,8 @@ A 2 kg block is pushed 5 meters across a horizontal surface with a coefficient o
 Solution:
 
 1. Calculate the normal force: N = mg = 2 kg \* 9.8 m/s² = 19.6 N
-2. Calculate the friction force: f = μ_k _ N = 0.3 _ 19.6 N = 5.88 N
-3. Calculate the work done by friction: W_f = -f _ d = -5.88 N _ 5 m = -29.4 J
+2. Calculate the friction force: f = μ*k * N = 0.3 \_ 19.6 N = 5.88 N
+3. Calculate the work done by friction: W*f = -f * d = -5.88 N \_ 5 m = -29.4 J
 
 The energy lost due to friction is 29.4 J, which is converted to heat.
 

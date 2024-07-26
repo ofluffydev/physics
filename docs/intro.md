@@ -98,19 +98,19 @@ Read this first:
 -   [Probability distributions](/docs/mathematical-methods-in-physics/probability-and-statistics/probability-distributions)
 -   [Mean, median, and mode](/docs/mathematical-methods-in-physics/probability-and-statistics/mean-median-and-mode)
 -   [Standard deviation and variance](/docs/mathematical-methods-in-physics/probability-and-statistics/standard-deviation-and-variance)
--   Error analysis and propagation
+-   [Error analysis and propagation](/docs/mathematical-methods-in-physics/probability-and-statistics/error-analysis-and-propagation)
 
-### 0.9. Tensor Analysis
+### [0.9. Tensor Analysis](/docs/category/tensor-analysis)
 
--   Introduction to tensors
--   Tensor operations
--   Applications in mechanics and relativity
+-   [Introduction to tensors](/docs/mathematical-methods-in-physics/tensor-analysis/introduction-to-tensors)
+-   [Tensor operations](/docs/mathematical-methods-in-physics/tensor-analysis/tensor-operations)
+-   [Applications in mechanics and relativity](/docs/mathematical-methods-in-physics/tensor-analysis/applications-in-mechanics-and-relativity)
 
-### 0.10. Numerical Methods
+### [0.10. Numerical Methods](/docs/category/numerical-methods)
 
--   Numerical integration
--   Root-finding algorithms
--   Interpolation and extrapolation
+-   [Numerical integration](/docs/mathematical-methods-in-physics/numerical-methods/numerical-integration)
+-   [Root-finding algorithms](/docs/mathematical-methods-in-physics/numerical-methods/root-finding-algorithms)
+-   [Interpolation and extrapolation](/docs/mathematical-methods-in-physics/numerical-methods/interpolation-and-extrapolation)
 -   Finite difference methods
 
 Each of these topics plays a crucial role in various areas of physics:

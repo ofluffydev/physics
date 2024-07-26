@@ -65,8 +65,8 @@ a) The maximum static friction
 b) The kinetic friction force once the box is moving
 
 Solution:
-a) fs_max = μs N = 0.5 _ (10 kg _ 9.8 m/s²) = 49 N
-b) fk = μk N = 0.3 _ (10 kg _ 9.8 m/s²) = 29.4 N
+a) fs*max = μs N = 0.5 * (10 kg _ 9.8 m/s²) = 49 N
+b) fk = μk N = 0.3 _ (10 kg \_ 9.8 m/s²) = 29.4 N
 
 ## 3. Tension
 

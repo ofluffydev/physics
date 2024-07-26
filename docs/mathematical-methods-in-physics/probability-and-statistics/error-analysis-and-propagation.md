@@ -2,6 +2,7 @@
 title: Error analysis and propagation
 sidebar_position: 4
 ---
+
 # Error Analysis and Propagation in Physics
 
 ## Introduction
@@ -14,17 +15,17 @@ In physics, measurements are never perfect. Every experimental result comes with
 
 Systematic errors are consistent, repeatable inaccuracies that affect all measurements in the same way.
 
-- **Causes**: Improperly calibrated instruments, consistent human bias, or flawed experimental design.
-- **Characteristics**: They shift all measurements in the same direction.
-- **Mitigation**: Careful calibration, improved experimental design, and cross-checking with different methods.
+-   **Causes**: Improperly calibrated instruments, consistent human bias, or flawed experimental design.
+-   **Characteristics**: They shift all measurements in the same direction.
+-   **Mitigation**: Careful calibration, improved experimental design, and cross-checking with different methods.
 
 ### 2. Random Errors
 
 Random errors are unpredictable fluctuations in measurements due to precision limitations.
 
-- **Causes**: Environmental fluctuations, limitations in instrument precision, or inherent variability in the measured phenomenon.
-- **Characteristics**: They cause scatter in repeated measurements around the true value.
-- **Mitigation**: Increasing the number of measurements and using statistical methods.
+-   **Causes**: Environmental fluctuations, limitations in instrument precision, or inherent variability in the measured phenomenon.
+-   **Characteristics**: They cause scatter in repeated measurements around the true value.
+-   **Mitigation**: Increasing the number of measurements and using statistical methods.
 
 ## Error Analysis
 
@@ -42,8 +43,8 @@ Relative Error = (Absolute Error / True Value) × 100%
 
 ### 3. Precision and Accuracy
 
-- **Precision**: Refers to the reproducibility of measurements. It's quantified by the standard deviation of repeated measurements.
-- **Accuracy**: Refers to how close a measurement is to the true value. It's affected by both systematic and random errors.
+-   **Precision**: Refers to the reproducibility of measurements. It's quantified by the standard deviation of repeated measurements.
+-   **Accuracy**: Refers to how close a measurement is to the true value. It's affected by both systematic and random errors.
 
 Problem: A student measures the acceleration due to gravity ten times and gets the following values (in m/s²): 9.78, 9.82, 9.79, 9.81, 9.80, 9.83, 9.77, 9.80, 9.81, 9.79. The accepted value is 9.81 m/s². Calculate the mean, standard deviation, absolute error, and relative error of these measurements.
 

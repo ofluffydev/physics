@@ -102,8 +102,8 @@ a) Maximum height:
 h_max = v₀y² / (2g) = 20² / (2 \* 9.8) = 20.41 m
 
 b) Time of flight:
-Time to reach max height: t_up = v₀y / g = 20 / 9.8 = 2.04 s
-Total time of flight: t_total = 2 _ t_up = 2 _ 2.04 = 4.08 s
+Time to reach max height: t*up = v₀y / g = 20 / 9.8 = 2.04 s
+Total time of flight: t_total = 2 * t*up = 2 * 2.04 = 4.08 s
 
 c) Range:
 R = v₀x _ t_total = 34.64 _ 4.08 = 141.33 m

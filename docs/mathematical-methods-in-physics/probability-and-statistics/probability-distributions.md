@@ -2,6 +2,7 @@
 title: Probability distributions
 sidebar_position: 1
 ---
+
 # Probability Distributions in Physics
 
 ## Introduction
@@ -95,7 +96,7 @@ F(x) = P(X ≤ x) = ∫f(t)dt (from -∞ to x)
 
 The expectation value E[X] is the average value of a random variable over many trials:
 
-For discrete distributions: E[X] = Σ x_i * P(x_i)
+For discrete distributions: E[X] = Σ x*i * P(x*i)
 For continuous distributions: E[X] = ∫x * f(x)dx
 
 ## Conclusion

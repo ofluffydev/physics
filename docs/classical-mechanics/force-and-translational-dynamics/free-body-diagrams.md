@@ -135,7 +135,7 @@ Step 4: Apply Newton's Second Law
 Step 5: Check if maximum static friction is exceeded
 
 -   f_max = μN = μmg cos(30°)
--   f_max = 0.3 _ 5 kg _ 9.8 m/s² \* cos(30°) = 12.74 N
+-   f*max = 0.3 * 5 kg \_ 9.8 m/s² \* cos(30°) = 12.74 N
 -   W sin(30°) = 5 kg _ 9.8 m/s² _ sin(30°) = 24.5 N
 
 Since W sin(30°) > f_max, the block will slide down the plane.

@@ -2,6 +2,7 @@
 title: Mean, Median, and Mode
 sidebar_position: 2
 ---
+
 # Mean, Median, and Mode in Physics
 
 ## Introduction
@@ -22,7 +23,7 @@ For a dataset with n values, the mean (μ) is calculated as:
 
 Or using summation notation:
 
-μ = (1/n) * Σ(xᵢ), where i goes from 1 to n
+μ = (1/n) \* Σ(xᵢ), where i goes from 1 to n
 
 ### Physical Significance
 
@@ -98,9 +99,9 @@ TODO: Add solution
 
 In physics, these measures are often used together to provide a comprehensive understanding of the data:
 
-- In error analysis, comparing the mean and median can help identify skewed distributions.
-- In particle physics, the mode can help identify the most common particle energy in a collision experiment.
-- In astrophysics, the mean might be used to calculate average star density, while the median could be more appropriate for galaxy mass distributions.
+-   In error analysis, comparing the mean and median can help identify skewed distributions.
+-   In particle physics, the mode can help identify the most common particle energy in a collision experiment.
+-   In astrophysics, the mean might be used to calculate average star density, while the median could be more appropriate for galaxy mass distributions.
 
 ## Conclusion
 
