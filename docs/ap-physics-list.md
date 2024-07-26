@@ -12,15 +12,30 @@ Based on [College Board's AP Physics 1](https://apstudents.collegeboard.org/cour
 
 Note that the website says "May include," so there may be missing or extra topics here.
 
+Also, since this is "Algebra-Based," I added an entire math section for this course. :p
+
 ### Unit 1: Kinematics
 
 10%–15% of multiple-choice exam score
 
 Kinematics is the study of motion without considering its causes. This unit covers the following topics:
 
--   Scalars and vectors in one dimension
+-   Scalars and vectors in one dimension (Why not 2 and 3 dimensions? 😞)
+    -   Scalars and Vectors have their own category [here](/docs/category/scalars-and-vectors) and a short section [here](https://physics.kadenfrisk.com/docs/classical-mechanics/kinematics/vectors-and-scalars) which is more focused on vectors and scalars in kinematics.
+    -   One-dimensional motion is covered [here](/docs/classical-mechanics/kinematics/one-dimensional-motion).
 -   Displacement, velocity, and acceleration
+    -   Has its own page [here](/docs/classical-mechanics/kinematics/displacement-velocity-and-acceleration).
 -   Representing motion
+
+    -   This section focuses on graphing and showing motion, which can be done with the following:
+
+        -   Position-time graphs
+        -   Velocity-time graphs
+        -   Mathematical equations
+        -   Vector notation
+
+        These are covered [here](/docs/classical-mechanics/kinematics/kinematics-intro) but will be getting their own pages soon.
+
 -   Reference frames and relative motion
 -   Vectors and motion in two dimensions
 
