@@ -1,8 +1,8 @@
 {
-  "label": "Vector Calculus",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "Vector Calculus is a branch of mathematics that deals with the differentiation and integration of vector fields. It is an essential tool in physics, especially in the study of electromagnetism and fluid dynamics."
-  }
+    "label": "Vector Calculus",
+    "position": 3,
+    "link": {
+        "type": "generated-index",
+        "description": "Vector Calculus is a branch of mathematics that deals with the differentiation and integration of vector fields. It is an essential tool in physics, especially in the study of electromagnetism and fluid dynamics."
+    }
 }

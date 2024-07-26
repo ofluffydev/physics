@@ -2,6 +2,7 @@
 title: Vectors and Scalars
 sidebar_position: 5
 ---
+
 # Vectors and Scalars in Kinematics
 
 ## Introduction
@@ -13,44 +14,53 @@ These will also be in the [dictionary](/docs/dictionary) for quick reference.
 ## Scalars
 
 ### Definition
+
 A scalar is a quantity that has magnitude (size) only. It can be completely described by a single number and its unit.
 
 ### Examples in Kinematics
+
 1. Distance: The total length of the path traveled (e.g., 100 meters)
 2. Speed: The rate of change of distance (e.g., 20 m/s)
 3. Time: Duration of motion (e.g., 5 seconds)
 4. Mass: Amount of matter in an object (e.g., 2 kg)
 
 ### Properties
-- Can be added, subtracted, multiplied, and divided using ordinary arithmetic
-- Do not have direction
+
+-   Can be added, subtracted, multiplied, and divided using ordinary arithmetic
+-   Do not have direction
 
 ## Vectors
 
 ### Definition
+
 A vector is a quantity that has both magnitude and direction. It is typically represented by an arrow, where the length of the arrow indicates the magnitude, and the orientation shows the direction.
 
 ### Examples in Kinematics
+
 1. Displacement: Change in position (e.g., 50 m east)
 2. Velocity: Rate of change of displacement (e.g., 20 m/s north)
 3. Acceleration: Rate of change of velocity (e.g., 5 m/s² downward)
 4. Force: Push or pull on an object (e.g., 10 N upward)
 
 ### Properties
-- Have both magnitude and direction
-- Can be added or subtracted using graphical or analytical methods
-- Can be multiplied by scalars
-- Can be multiplied with other vectors (dot product and cross product)
+
+-   Have both magnitude and direction
+-   Can be added or subtracted using graphical or analytical methods
+-   Can be multiplied by scalars
+-   Can be multiplied with other vectors (dot product and cross product)
 
 ### Vector Notation
+
 Vectors are often denoted in different ways:
-- Bold letters: **v**, **a**, **F**
-- Letters with arrows above them: v→, a→, F→
-- For unit vectors (vectors with a magnitude of 1): î, ĵ, k̂ (for x, y, and z directions respectively)
+
+-   Bold letters: **v**, **a**, **F**
+-   Letters with arrows above them: v→, a→, F→
+-   For unit vectors (vectors with a magnitude of 1): î, ĵ, k̂ (for x, y, and z directions respectively)
 
 ## Vector Operations
 
 ### 1. Addition and Subtraction
+
 Vectors can be added or subtracted graphically (tip-to-tail method) or analytically (component-wise).
 
 Example: Adding displacement vectors
@@ -59,6 +69,7 @@ B→ = 2î - 1ĵ
 A→ + B→ = (3 + 2)î + (4 - 1)ĵ = 5î + 3ĵ
 
 ### 2. Multiplication by a Scalar
+
 When a vector is multiplied by a scalar, its magnitude changes, but its direction remains the same (unless the scalar is negative, which reverses the direction).
 
 Example: Doubling a velocity vector
@@ -66,6 +77,7 @@ v→ = 3î - 2ĵ
 2v→ = 6î - 4ĵ
 
 ### 3. Dot Product
+
 The dot product of two vectors results in a scalar.
 A · B = |A||B|cosθ, where θ is the angle between the vectors.
 
@@ -73,6 +85,7 @@ Example: Work done by a force
 W = F · d = |F||d|cosθ
 
 ### 4. Cross Product
+
 The cross product of two vectors results in a vector perpendicular to both.
 A × B = |A||B|sinθ n̂, where n̂ is the unit vector perpendicular to both A and B.
 

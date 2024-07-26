@@ -14,13 +14,14 @@ In physics, many quantities we encounter have both magnitude and direction. To d
 A vector is a physical quantity that has both magnitude (size or amount) and direction. It is typically represented graphically as an arrow, where the length of the arrow indicates the magnitude, and the orientation of the arrow shows the direction.
 
 Examples of vector quantities include:
-- Displacement
-- Velocity
-- Acceleration
-- Force
-- Momentum
-- Electric field
-- Magnetic field
+
+-   Displacement
+-   Velocity
+-   Acceleration
+-   Force
+-   Momentum
+-   Electric field
+-   Magnetic field
 
 ## Properties of Vectors
 

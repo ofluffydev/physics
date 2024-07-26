@@ -14,29 +14,29 @@ Three-dimensional motion extends the principles of kinematics to describe moveme
 
 ### 1. Position in 3D Space
 
-- Position is represented by coordinates (x, y, z) in a Cartesian coordinate system.
-- Position vector: r = xi + yj + zk, where i, j, and k are unit vectors in the x, y, and z directions respectively.
+-   Position is represented by coordinates (x, y, z) in a Cartesian coordinate system.
+-   Position vector: r = xi + yj + zk, where i, j, and k are unit vectors in the x, y, and z directions respectively.
 
 ### 2. Displacement
 
-- Displacement is a vector quantity: Δr = (Δx, Δy, Δz)
-- Magnitude: |Δr| = √(Δx² + Δy² + Δz²)
-- Direction is described by two angles:
-    - Azimuthal angle (θ): tan⁻¹(√(x² + y²) / z)
-    - Polar angle (φ): tan⁻¹(y / x)
+-   Displacement is a vector quantity: Δr = (Δx, Δy, Δz)
+-   Magnitude: |Δr| = √(Δx² + Δy² + Δz²)
+-   Direction is described by two angles:
+    -   Azimuthal angle (θ): tan⁻¹(√(x² + y²) / z)
+    -   Polar angle (φ): tan⁻¹(y / x)
 
 ### 3. Velocity
 
-- Velocity in 3D is a vector: v = (vx, vy, vz)
-- Average velocity: v_avg = Δr / Δt
-- Instantaneous velocity: v = dr/dt = (dx/dt)i + (dy/dt)j + (dz/dt)k
-- Speed (magnitude of velocity): |v| = √(vx² + vy² + vz²)
+-   Velocity in 3D is a vector: v = (vx, vy, vz)
+-   Average velocity: v_avg = Δr / Δt
+-   Instantaneous velocity: v = dr/dt = (dx/dt)i + (dy/dt)j + (dz/dt)k
+-   Speed (magnitude of velocity): |v| = √(vx² + vy² + vz²)
 
 ### 4. Acceleration
 
-- Acceleration in 3D is a vector: a = (ax, ay, az)
-- Average acceleration: a_avg = Δv / Δt
-- Instantaneous acceleration: a = dv/dt = (d²x/dt²)i + (d²y/dt²)j + (d²z/dt²)k
+-   Acceleration in 3D is a vector: a = (ax, ay, az)
+-   Average acceleration: a_avg = Δv / Δt
+-   Instantaneous acceleration: a = dv/dt = (d²x/dt²)i + (d²y/dt²)j + (d²z/dt²)k
 
 ## Equations of Motion in 3D
 
@@ -45,7 +45,8 @@ For constant acceleration, we extend the equations of motion to three dimensions
 1. Velocity-Time Relationship:
    v = v₀ + at
 
-   In components:
+    In components:
+
     - vx = v₀x + axt
     - vy = v₀y + ayt
     - vz = v₀z + azt
@@ -53,7 +54,8 @@ For constant acceleration, we extend the equations of motion to three dimensions
 2. Position-Time Relationship:
    r = r₀ + v₀t + ½at²
 
-   In components:
+    In components:
+
     - x = x₀ + v₀xt + ½axt²
     - y = y₀ + v₀yt + ½ayt²
     - z = z₀ + v₀zt + ½azt²
@@ -61,7 +63,8 @@ For constant acceleration, we extend the equations of motion to three dimensions
 3. Velocity-Displacement Relationship:
    v² = v₀² + 2a(r - r₀)
 
-   In components:
+    In components:
+
     - vx² = v₀x² + 2ax(x - x₀)
     - vy² = v₀y² + 2ay(y - y₀)
     - vz² = v₀z² + 2az(z - z₀)

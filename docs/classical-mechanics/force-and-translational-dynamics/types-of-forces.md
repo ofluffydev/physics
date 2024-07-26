@@ -2,6 +2,7 @@
 title: Types of Forces
 sidebar_position: 2
 ---
+
 # Types of Forces in Physics
 
 ## Introduction
@@ -11,127 +12,152 @@ Forces are fundamental in physics, representing pushes or pulls acting on object
 ## 1. Normal Force
 
 ### Definition
+
 The normal force is the perpendicular force exerted by a surface on an object in contact with it.
 
 ### Key Points
-- Always perpendicular to the surface
-- Balances the component of weight perpendicular to the surface
-- Magnitude can vary depending on other applied forces
+
+-   Always perpendicular to the surface
+-   Balances the component of weight perpendicular to the surface
+-   Magnitude can vary depending on other applied forces
 
 ### Formula
+
 On a horizontal surface: N = mg
 
 On an inclined plane: N = mg cos(θ), where θ is the angle of inclination
 
 ### Example
+
 A 5 kg book rests on a table. Calculate the normal force exerted by the table.
 
 Solution:
 
-N = mg = 5 kg * 9.8 m/s² = 49 N
+N = mg = 5 kg \* 9.8 m/s² = 49 N
 
 ## 2. Friction
 
 ### Definition
+
 Friction is a force that opposes the relative motion of objects in contact.
 
 ### Types
+
 1. Static Friction: Acts on objects at rest
 2. Kinetic Friction: Acts on objects in motion
 
 ### Key Points
-- Depends on the normal force and the coefficient of friction
-- Static friction ≤ μs N (μs is the coefficient of static friction)
-- Kinetic friction = μk N (μk is the coefficient of kinetic friction)
-- μs is generally greater than μk
+
+-   Depends on the normal force and the coefficient of friction
+-   Static friction ≤ μs N (μs is the coefficient of static friction)
+-   Kinetic friction = μk N (μk is the coefficient of kinetic friction)
+-   μs is generally greater than μk
 
 ### Formulas
-- Maximum static friction: fs_max = μs N
-- Kinetic friction: fk = μk N
+
+-   Maximum static friction: fs_max = μs N
+-   Kinetic friction: fk = μk N
 
 ### Example
+
 A 10 kg box is pushed horizontally on a floor. The coefficient of static friction is 0.5, and kinetic friction is 0.3. Calculate:
 a) The maximum static friction
 b) The kinetic friction force once the box is moving
 
 Solution:
-a) fs_max = μs N = 0.5 * (10 kg * 9.8 m/s²) = 49 N
-b) fk = μk N = 0.3 * (10 kg * 9.8 m/s²) = 29.4 N
+a) fs_max = μs N = 0.5 _ (10 kg _ 9.8 m/s²) = 49 N
+b) fk = μk N = 0.3 _ (10 kg _ 9.8 m/s²) = 29.4 N
 
 ## 3. Tension
 
 ### Definition
+
 Tension is the pulling force exerted by a string, cable, or rope on an object.
 
 ### Key Points
-- Assumed to be the same throughout an ideal string (massless and inextensible)
-- Always directed along the string
-- Can support only pulling forces, not pushing
+
+-   Assumed to be the same throughout an ideal string (massless and inextensible)
+-   Always directed along the string
+-   Can support only pulling forces, not pushing
 
 ### Example
+
 A 2 kg mass hangs from a ceiling by a light string. Calculate the tension in the string.
 
 Solution:
-T = mg = 2 kg * 9.8 m/s² = 19.6 N
+T = mg = 2 kg \* 9.8 m/s² = 19.6 N
 
 ## 4. Spring Force (Elastic Force)
 
 ### Definition
+
 The spring force is the restoring force exerted by a spring when it is stretched or compressed.
 
 ### Key Points
-- Described by Hooke's Law: F = -kx
-- k is the spring constant
-- x is the displacement from equilibrium position
-- Negative sign indicates the force is restorative
+
+-   Described by Hooke's Law: F = -kx
+-   k is the spring constant
+-   x is the displacement from equilibrium position
+-   Negative sign indicates the force is restorative
 
 ### Example
+
 A spring with a spring constant of 100 N/m is stretched 0.1 m from its equilibrium position. Calculate the spring force.
 
 Solution:
-F = -kx = -100 N/m * 0.1 m = -10 N
+F = -kx = -100 N/m \* 0.1 m = -10 N
 
 ## 5. Gravitational Force
 
 ### Definition
+
 The gravitational force is the attractive force between two masses.
 
 ### Key Points
-- Described by Newton's Law of Universal Gravitation
-- On Earth's surface, approximated as F = mg
-- g ≈ 9.8 m/s² near Earth's surface
+
+-   Described by Newton's Law of Universal Gravitation
+-   On Earth's surface, approximated as F = mg
+-   g ≈ 9.8 m/s² near Earth's surface
 
 ### Formula
+
 F = G(m1m2)/r², where G is the gravitational constant
 
 ### Example
+
 Calculate the weight of a 70 kg person on Earth.
 
 Solution:
-W = mg = 70 kg * 9.8 m/s² = 686 N
+W = mg = 70 kg \* 9.8 m/s² = 686 N
 
 ## 6. Electrostatic Force
 
 ### Definition
+
 The electrostatic force is the force between electrically charged particles.
 
 ### Key Points
-- Described by Coulomb's Law
-- Can be attractive (opposite charges) or repulsive (like charges)
+
+-   Described by Coulomb's Law
+-   Can be attractive (opposite charges) or repulsive (like charges)
 
 ### Formula
+
 F = k(q1q2)/r², where k is Coulomb's constant
 
 ## 7. Buoyant Force
 
 ### Definition
+
 The buoyant force is the upward force exerted by a fluid on an immersed object.
 
 ### Key Points
-- Described by Archimedes' Principle
-- Magnitude equals the weight of the fluid displaced
+
+-   Described by Archimedes' Principle
+-   Magnitude equals the weight of the fluid displaced
 
 ### Formula
+
 FB = ρgV, where ρ is fluid density, g is gravity, V is volume displaced
 
 ## Practice Problems

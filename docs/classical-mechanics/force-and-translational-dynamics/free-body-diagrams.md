@@ -2,6 +2,7 @@
 title: Free-Body Diagrams
 sidebar_position: 3
 ---
+
 # Free-Body Diagrams
 
 ## Introduction
@@ -116,22 +117,26 @@ Step 1: Draw the free-body diagram
 ```
 
 Step 2: Identify and label forces
-- Weight (W)
-- Normal force (N)
-- Friction force (f)
+
+-   Weight (W)
+-   Normal force (N)
+-   Friction force (f)
 
 Step 3: Break down the weight vector
-- W_parallel = W sin(30°) = mg sin(30°)
-- W_perpendicular = W cos(30°) = mg cos(30°)
+
+-   W_parallel = W sin(30°) = mg sin(30°)
+-   W_perpendicular = W cos(30°) = mg cos(30°)
 
 Step 4: Apply Newton's Second Law
-- Along the plane: f = W sin(30°) for equilibrium
-- Perpendicular to the plane: N = W cos(30°)
+
+-   Along the plane: f = W sin(30°) for equilibrium
+-   Perpendicular to the plane: N = W cos(30°)
 
 Step 5: Check if maximum static friction is exceeded
-- f_max = μN = μmg cos(30°)
-- f_max = 0.3 * 5 kg * 9.8 m/s² * cos(30°) = 12.74 N
-- W sin(30°) = 5 kg * 9.8 m/s² * sin(30°) = 24.5 N
+
+-   f_max = μN = μmg cos(30°)
+-   f_max = 0.3 _ 5 kg _ 9.8 m/s² \* cos(30°) = 12.74 N
+-   W sin(30°) = 5 kg _ 9.8 m/s² _ sin(30°) = 24.5 N
 
 Since W sin(30°) > f_max, the block will slide down the plane.
 

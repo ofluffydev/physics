@@ -18,11 +18,11 @@ Note that the website says "May include," so there may be missing or extra topic
 
 Kinematics is the study of motion without considering its causes. This unit covers the following topics:
 
-- Scalars and vectors in one dimension
-- Displacement, velocity, and acceleration
-- Representing motion
-- Reference frames and relative motion
-- Vectors and motion in two dimensions
+-   Scalars and vectors in one dimension
+-   Displacement, velocity, and acceleration
+-   Representing motion
+-   Reference frames and relative motion
+-   Vectors and motion in two dimensions
 
 ### Unit 2: Force and Translational Dynamics
 
@@ -30,15 +30,15 @@ Kinematics is the study of motion without considering its causes. This unit cove
 
 Force and Translational Dynamics is the study of the causes of motion. This unit covers the following topics:
 
-- Systems and center of mass
-- Forces and free-body diagrams
-- Newton’s Third Law
-- Newton’s First Law
-- Newton’s Second Law
-- Gravitational force
-- Kinetic and static friction
-- Spring forces
-- Circular motion
+-   Systems and center of mass
+-   Forces and free-body diagrams
+-   Newton’s Third Law
+-   Newton’s First Law
+-   Newton’s Second Law
+-   Gravitational force
+-   Kinetic and static friction
+-   Spring forces
+-   Circular motion
 
 ### Unit 3: Work, Energy, and Power
 
@@ -46,11 +46,11 @@ Force and Translational Dynamics is the study of the causes of motion. This unit
 
 Work, Energy, and Power is the study of the relationship between work and energy. This unit covers the following topics:
 
-- Translational kinetic energy
-- Work
-- Potential energy
-- Conservation of energy
-- Power
+-   Translational kinetic energy
+-   Work
+-   Potential energy
+-   Conservation of energy
+-   Power
 
 ### Unit 4: Linear Momentum
 
@@ -58,10 +58,10 @@ Work, Energy, and Power is the study of the relationship between work and energy
 
 Linear Momentum is the study of the motion of objects in terms of their mass and velocity. This unit covers the following topics:
 
-- Linear momentum
-- Change in momentum and impulse
-- Conservation of linear momentum
-- Elastic and inelastic collisions
+-   Linear momentum
+-   Change in momentum and impulse
+-   Conservation of linear momentum
+-   Elastic and inelastic collisions
 
 ### Unit 5: Torque and Rotational Dynamics
 
@@ -69,12 +69,12 @@ Linear Momentum is the study of the motion of objects in terms of their mass and
 
 Torque and Rotational Dynamics is the study of the causes of rotational motion. This unit covers the following topics:`
 
-- Rotational kinematics
-- Connecting linear and rotational motion
-- Torque
-- Rotational inertia
-- Rotational equilibrium and Newton’s First Law in rotational form
-- Newton’s Second Law in rotational form
+-   Rotational kinematics
+-   Connecting linear and rotational motion
+-   Torque
+-   Rotational inertia
+-   Rotational equilibrium and Newton’s First Law in rotational form
+-   Newton’s Second Law in rotational form
 
 ### Unit 6: Energy and Momentum of Rotating Systems
 
@@ -82,12 +82,12 @@ Torque and Rotational Dynamics is the study of the causes of rotational motion. 
 
 Energy and Momentum of Rotating Systems is the study of the relationship between energy and momentum in rotating systems. This unit covers the following topics:
 
-- Rotational kinetic energy
-- Torque and work
-- Angular momentum and angular impulse
-- Conservation of angular momentum
-- Rolling
-- Motion of orbiting satellites
+-   Rotational kinetic energy
+-   Torque and work
+-   Angular momentum and angular impulse
+-   Conservation of angular momentum
+-   Rolling
+-   Motion of orbiting satellites
 
 ### Unit 7: Oscillations
 
@@ -95,10 +95,10 @@ Energy and Momentum of Rotating Systems is the study of the relationship between
 
 Oscillations is the study of periodic motion. This unit covers the following topics:
 
-- Defining simple harmonic motion (SHM)
-- Frequency and period of SHM
-- Representing and analyzing SHM
-- Energy of simple harmonic oscillators
+-   Defining simple harmonic motion (SHM)
+-   Frequency and period of SHM
+-   Representing and analyzing SHM
+-   Energy of simple harmonic oscillators
 
 ### Unit 8: Fluids
 
@@ -106,7 +106,7 @@ Oscillations is the study of periodic motion. This unit covers the following top
 
 Fluids is the study of the behavior of liquids and gases. This unit covers the following topics:
 
-- Internal structure and density
-- Pressure
-- Fluids and Newton’s laws
-- Fluids and conservation laws 
+-   Internal structure and density
+-   Pressure
+-   Fluids and Newton’s laws
+-   Fluids and conservation laws

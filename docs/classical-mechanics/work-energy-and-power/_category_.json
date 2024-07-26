@@ -1,8 +1,8 @@
 {
-  "label": "Work, Energy, and Power",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": "Work Energy and Power is a concept in classical mechanics that deals with the relationship between work, energy, and power. It is a fundamental concept in physics and is used to describe the motion of objects in the universe."
-  }
+    "label": "Work, Energy, and Power",
+    "position": 3,
+    "link": {
+        "type": "generated-index",
+        "description": "Work Energy and Power is a concept in classical mechanics that deals with the relationship between work, energy, and power. It is a fundamental concept in physics and is used to describe the motion of objects in the universe."
+    }
 }

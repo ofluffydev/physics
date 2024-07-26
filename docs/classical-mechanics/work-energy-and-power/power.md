@@ -2,6 +2,7 @@
 title: Power
 sidebar_position: 5
 ---
+
 # Power
 
 ## Introduction
@@ -17,10 +18,11 @@ Mathematically:
 P = W / t = E / t
 
 Where:
-- P is power (measured in watts, W)
-- W is work done (measured in joules, J)
-- E is energy transferred (measured in joules, J)
-- t is time (measured in seconds, s)
+
+-   P is power (measured in watts, W)
+-   W is work done (measured in joules, J)
+-   E is energy transferred (measured in joules, J)
+-   t is time (measured in seconds, s)
 
 ## Alternative Formulations
 
@@ -67,15 +69,19 @@ Efficiency = (Power output) / (Power input) × 100%
 ## Power in Various Fields
 
 ### 1. Mechanics
+
 In mechanics, power is often calculated as the product of force and velocity, useful in analyzing moving objects and machines.
 
 ### 2. Electricity
+
 Electrical power is the rate at which electrical energy is transferred by a circuit. It's crucial in designing and analyzing electrical systems.
 
 ### 3. Thermodynamics
+
 In thermodynamics, power is related to the rate of heat transfer or the rate at which a system performs work.
 
 ### 4. Fluid Dynamics
+
 Power in fluid systems is often calculated in terms of pressure and flow rate, important in hydraulic and pneumatic systems.
 
 ## Relationship with Other Concepts
@@ -87,21 +93,25 @@ Power in fluid systems is often calculated in terms of pressure and flow rate, i
 ## Example Problems
 
 ### Problem 1: Basic Power Calculation
+
 A crane lifts a 1000 kg load 20 meters in 30 seconds. Calculate the average power output of the crane.
 
 TODO: Add solution.
 
 ### Problem 2: Power in Electrical Systems
+
 A household appliance draws 2 A of current when connected to a 120 V power supply. What is its power consumption?
 
 TODO: Add solution.
 
 ### Problem 3: Power and Velocity
+
 A car accelerates from rest to 30 m/s in 10 seconds. If the car's mass is 1500 kg, what is the average power output of the engine during this acceleration?
 
 TODO: Add solution.
 
 ### Problem 4: Power and Efficiency
+
 A motor has an efficiency of 85%. If the input power is 5000 W, what is the output power? How much power is lost as heat?
 
 TODO: Add solution.

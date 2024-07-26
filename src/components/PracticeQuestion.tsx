@@ -1,29 +1,29 @@
-import React, {useState} from 'react';
-import {Alert, AlertDescription} from "@site/src/components/ui/alert";
-import {Button} from "@site/src/components/ui/button";
+import React, { useState } from 'react'
+import { Alert, AlertDescription } from '@site/src/components/ui/alert'
+import { Button } from '@site/src/components/ui/button'
 
-const PracticeQuestion = ({question, options, correctAnswer}) => {
-    const [selectedAnswer, setSelectedAnswer] = useState(null);
-    const [isCorrect, setIsCorrect] = useState(null);
-    const [attempts, setAttempts] = useState(0);
+const PracticeQuestion = ({ question, options, correctAnswer }) => {
+    const [selectedAnswer, setSelectedAnswer] = useState(null)
+    const [isCorrect, setIsCorrect] = useState(null)
+    const [attempts, setAttempts] = useState(0)
 
     const handleAnswerSelect = (answer) => {
-        setSelectedAnswer(answer);
-    };
+        setSelectedAnswer(answer)
+    }
 
     const handleSubmit = () => {
         if (selectedAnswer === correctAnswer) {
-            setIsCorrect(true);
+            setIsCorrect(true)
         } else {
-            setIsCorrect(false);
-            setAttempts(attempts + 1);
+            setIsCorrect(false)
+            setAttempts(attempts + 1)
         }
-    };
+    }
 
     const handleTryAgain = () => {
-        setSelectedAnswer(null);
-        setIsCorrect(null);
-    };
+        setSelectedAnswer(null)
+        setIsCorrect(null)
+    }
 
     return (
         <div className="p-4 border rounded-lg shadow-sm">
@@ -32,7 +32,9 @@ const PracticeQuestion = ({question, options, correctAnswer}) => {
                 {options.map((option, index) => (
                     <Button
                         key={index}
-                        variant={selectedAnswer === option ? "default" : "outline"}
+                        variant={
+                            selectedAnswer === option ? 'default' : 'outline'
+                        }
                         className="w-full text-white rounded-2xl justify-start"
                         onClick={() => handleAnswerSelect(option)}
                     >
@@ -41,15 +43,21 @@ const PracticeQuestion = ({question, options, correctAnswer}) => {
                 ))}
             </div>
             <div className="mt-4">
-                <Button className="text-white" onClick={handleSubmit} disabled={selectedAnswer === null}>
+                <Button
+                    className="text-white"
+                    onClick={handleSubmit}
+                    disabled={selectedAnswer === null}
+                >
                     Submit Answer
                 </Button>
             </div>
             {isCorrect !== null && (
-                <Alert className={`mt-4 text-black ${isCorrect ? 'bg-green-100' : 'bg-red-100'}`}>
+                <Alert
+                    className={`mt-4 text-black ${isCorrect ? 'bg-green-100' : 'bg-red-100'}`}
+                >
                     <AlertDescription>
                         {isCorrect
-                            ? "Correct! Well done!"
+                            ? 'Correct! Well done!'
                             : `Incorrect. You've made ${attempts} incorrect attempt(s). Try again!`}
                     </AlertDescription>
                 </Alert>
@@ -60,7 +68,7 @@ const PracticeQuestion = ({question, options, correctAnswer}) => {
                 </Button>
             )}
         </div>
-    );
-};
+    )
+}
 
-export default PracticeQuestion;
+export default PracticeQuestion

@@ -13,10 +13,10 @@ In physics, we often need to combine or manipulate vectors to solve problems and
 
 While scalars and vectors both have operations associated with them, there are key differences:
 
-- **Scalars**: Represent quantities with magnitude only (e.g., mass, temperature).
-- **Vectors**: Represent quantities with magnitude and direction (e.g., force, velocity).
-- **Scalar Operations**: Involve arithmetic operations on scalar quantities.
-- **Vector Operations**: Involve vector addition, subtraction, and scalar multiplication.
+-   **Scalars**: Represent quantities with magnitude only (e.g., mass, temperature).
+-   **Vectors**: Represent quantities with magnitude and direction (e.g., force, velocity).
+-   **Scalar Operations**: Involve arithmetic operations on scalar quantities.
+-   **Vector Operations**: Involve vector addition, subtraction, and scalar multiplication.
 
 ## 1. Vector Addition
 
@@ -25,11 +25,13 @@ Vector addition is the process of combining two or more vectors to produce a sin
 ### Methods of Vector Addition
 
 1. **Graphical Method (Tip-to-Tail)**:
+
     - Draw the first vector.
     - Draw the second vector starting from the tip of the first vector.
     - The resultant vector is drawn from the tail of the first vector to the tip of the last vector.
 
 2. **Parallelogram Method**:
+
     - Draw both vectors from a common starting point.
     - Complete the parallelogram using these vectors as sides.
     - The diagonal of the parallelogram from the common point is the resultant vector.
@@ -41,9 +43,9 @@ Vector addition is the process of combining two or more vectors to produce a sin
 
 ### Properties of Vector Addition
 
-- Commutative: A + B = B + A
-- Associative: (A + B) + C = A + (B + C)
-- The zero vector is the additive identity: A + 0 = A
+-   Commutative: A + B = B + A
+-   Associative: (A + B) + C = A + (B + C)
+-   The zero vector is the additive identity: A + 0 = A
 
 ### Example
 
@@ -62,9 +64,9 @@ To subtract vector B from vector A (A - B):
 
 ### Properties of Vector Subtraction
 
-- Not commutative: A - B ≠ B - A
-- A - A = 0 (the zero vector)
-- 0 - A = -A
+-   Not commutative: A - B ≠ B - A
+-   A - A = 0 (the zero vector)
+-   0 - A = -A
 
 ### Example
 
@@ -84,10 +86,10 @@ To multiply a vector A by a scalar k:
 
 ### Properties of Scalar Multiplication
 
-- Distributive over vector addition: k(A + B) = kA + kB
-- Associative with scalar multiplication: (kl)A = k(lA), where k and l are scalars
-- 1A = A
-- 0A = 0 (the zero vector)
+-   Distributive over vector addition: k(A + B) = kA + kB
+-   Associative with scalar multiplication: (kl)A = k(lA), where k and l are scalars
+-   1A = A
+-   0A = 0 (the zero vector)
 
 ### Example
 

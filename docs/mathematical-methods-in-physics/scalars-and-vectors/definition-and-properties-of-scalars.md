@@ -2,6 +2,7 @@
 title: Definition and properties of scalars
 sidebar_position: 1
 ---
+
 # Scalars in Physics
 
 ## Introduction
@@ -13,14 +14,15 @@ In physics, we often deal with quantities that describe various aspects of the p
 A scalar is a physical quantity that has magnitude (size or amount) but no direction. In other words, a scalar is completely described by a single number (with appropriate units) without any need for directional information.
 
 Examples of scalar quantities include:
-- Mass
-- Temperature
-- Time
-- Energy
-- Speed (note: velocity is a vector, but speed is a scalar)
-- Volume
-- Density
-- Electric charge
+
+-   Mass
+-   Temperature
+-   Time
+-   Energy
+-   Speed (note: velocity is a vector, but speed is a scalar)
+-   Volume
+-   Density
+-   Electric charge
 
 ## Properties of Scalars
 
@@ -31,20 +33,24 @@ Scalars have several important properties that distinguish them from other types
 2. **No Direction**: Unlike vectors, scalars do not have an associated direction. For example, a mass of 5 kg doesn't point in any particular direction.
 
 3. **Algebraic Operations**: Scalars can be added, subtracted, multiplied, and divided using ordinary algebraic rules. For example:
+
     - Addition: 5 kg + 3 kg = 8 kg
     - Subtraction: 100 J - 25 J = 75 J
     - Multiplication: 2 m × 3 m = 6 m²
     - Division: 60 m ÷ 15 s = 4 m/s
 
 4. **Commutative Property**: The order of operation doesn't matter when adding or multiplying scalars. For example:
+
     - a + b = b + a
     - a × b = b × a
 
 5. **Associative Property**: When adding or multiplying three or more scalars, the grouping doesn't affect the result. For example:
+
     - (a + b) + c = a + (b + c)
     - (a × b) × c = a × (b × c)
 
 6. **Distributive Property**: Multiplying a scalar by a sum of scalars is the same as multiplying the scalar by each term and then adding the results. For example:
+
     - a × (b + c) = (a × b) + (a × c)
 
 7. **Units**: Scalars always have associated units (except for dimensionless quantities like refractive index). The units provide context for the magnitude. For example, a mass might be expressed in kilograms (kg) or grams (g).
@@ -70,7 +76,6 @@ Scalars have several important properties that distinguish them from other types
 Scalars are essential in physics for describing many fundamental quantities. Their simplicity (having only magnitude) makes them easy to work with mathematically, yet they are powerful enough to describe many important physical properties and phenomena. As you progress in your study of physics, you'll encounter scalars frequently, often in conjunction with more complex quantities like vectors and tensors.
 
 Understanding scalars is crucial for building a strong foundation in physics, as they form the basis for more advanced concepts and calculations. In future lessons, we'll explore how scalars interact with other types of quantities and how they're used in various physical laws and equations.
-
 
 ## Next Up
 

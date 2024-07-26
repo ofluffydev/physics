@@ -2,6 +2,7 @@
 title: Impulse
 sidebar_position: 7
 ---
+
 # Impulse
 
 ## Introduction
@@ -19,13 +20,14 @@ The impulse J is given by:
 J = ∫ F dt
 
 Where:
-- J is the impulse vector
-- F is the force vector
-- dt is an infinitesimal time interval
+
+-   J is the impulse vector
+-   F is the force vector
+-   dt is an infinitesimal time interval
 
 For a constant force, this simplifies to:
 
-J = F * Δt
+J = F \* Δt
 
 Where Δt is the time interval over which the force acts.
 
@@ -33,12 +35,13 @@ Where Δt is the time interval over which the force acts.
 
 The impulse-momentum theorem states that the impulse applied to an object equals its change in momentum:
 
-J = Δp = m * Δv
+J = Δp = m \* Δv
 
 Where:
-- Δp is the change in momentum
-- m is the mass of the object
-- Δv is the change in velocity
+
+-   Δp is the change in momentum
+-   m is the mass of the object
+-   Δv is the change in velocity
 
 ## Properties of Impulse
 
@@ -58,35 +61,43 @@ Where:
 ## Impulse in Various Scenarios
 
 ### 1. Constant Force
+
 When a constant force acts over a time interval, the impulse is simply the product of force and time.
 
 ### 2. Variable Force
+
 For a varying force, the impulse is calculated by integrating the force over time or finding the area under the force-time curve.
 
 ### 3. Explosions and Propulsion
+
 In explosions or rocket propulsion, impulse is often used to characterize the total effect of a quickly changing force.
 
 ### 4. Collisions
+
 In collisions, impulse helps analyze the exchange of momentum between objects and the forces involved during impact.
 
 ## Example Problems
 
 ### Problem 1: Constant Force Impulse
+
 A 0.5 kg ball traveling at 15 m/s is brought to rest by a constant force in 0.1 seconds. Calculate the impulse and the magnitude of the force.
 
 TODO: Add solution.
 
 ### Problem 2: Variable Force Impulse
+
 A force F(t) = (20 - 2t) N acts on a 2 kg object for 5 seconds. The object is initially at rest. Find the final velocity of the object.
 
 TODO: Add solution.
 
 ### Problem 3: Collision Impulse
+
 A 150 g ball moving at 20 m/s collides with a wall and rebounds at 15 m/s in the opposite direction. The collision lasts for 0.02 seconds. Calculate the impulse and the average force exerted by the wall on the ball.
 
 TODO: Add solution.
 
 ### Problem 4: Rocket Propulsion
+
 A rocket ejects exhaust at a rate of 50 kg/s with a velocity of 3000 m/s relative to the rocket. Calculate the thrust (force) produced by the rocket engine.
 
 TODO: Add solution.

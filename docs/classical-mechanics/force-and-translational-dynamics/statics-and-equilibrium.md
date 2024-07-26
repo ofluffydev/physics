@@ -2,6 +2,7 @@
 title: Statics and equilibrium
 sidebar_position: 4
 ---
+
 # Statics and Equilibrium
 
 ## 1. Introduction
@@ -12,10 +13,10 @@ Statics is a branch of mechanics that deals with the analysis of forces acting o
 
 Before diving into equilibrium conditions, let's review some key concepts:
 
-- **Force**: A push or pull acting on an object.
-- **Moment**: The turning effect of a force about a point.
-- **Vector**: A quantity with both magnitude and direction.
-- **Scalar**: A quantity with only magnitude.
+-   **Force**: A push or pull acting on an object.
+-   **Moment**: The turning effect of a force about a point.
+-   **Vector**: A quantity with both magnitude and direction.
+-   **Scalar**: A quantity with only magnitude.
 
 ## 3. Conditions for Equilibrium
 
@@ -45,18 +46,20 @@ These conditions ensure that there is no linear acceleration and no angular acce
 A uniform beam of length 6m and weight 1000N is supported at both ends. A point load of 2000N acts at the center of the beam. Find the reaction forces at the supports.
 
 Solution:
+
 1. Draw the FBD:
-   ```
-   A ---|-----|-----|----- B
-        |     |     |
-        |    2000N  |
-        |     ↓     |
-   RA ↑       ↓     ↑ RB
-              1000N
-   ```
+
+    ```
+    A ---|-----|-----|----- B
+         |     |     |
+         |    2000N  |
+         |     ↓     |
+    RA ↑       ↓     ↑ RB
+               1000N
+    ```
 
 2. Apply equilibrium conditions:
-  TODO: Add equations
+   TODO: Add equations
 
 3. Solve the equations:
    TODO: Add solution
@@ -66,20 +69,22 @@ Solution:
 A 5m ladder weighing 200N leans against a frictionless wall at an angle of 60° to the ground. A person weighing 800N stands 3m up the ladder. Find the reaction forces at the base of the ladder and at the wall.
 
 Solution:
+
 1. Draw the FBD:
-   ```
-         |
-         | Rw
-         |→
-         |   ↑800N
-         | /
-         |/
-        /|
-      / |
-    /   |
-   /     |
-   /______|
-   ↑Ry  →Rx
+
+    ```
+          |
+          | Rw
+          |→
+          |   ↑800N
+          | /
+          |/
+         /|
+       / |
+     /   |
+    /     |
+    /______|
+    ↑Ry  →Rx
     ```
 
 2. Apply equilibrium conditions:

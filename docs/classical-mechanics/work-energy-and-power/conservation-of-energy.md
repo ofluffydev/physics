@@ -2,6 +2,7 @@
 title: Conservation of energy
 sidebar_position: 4
 ---
+
 # Conservation of Energy
 
 ## Introduction
@@ -34,15 +35,15 @@ To understand conservation of energy, it's important to recognize various forms 
 
 Energy constantly transforms from one form to another. Examples include:
 
-- A falling object: Gravitational PE → KE
-- A pendulum: Continuous exchange between Gravitational PE and KE
-- A power plant: Chemical PE → Thermal Energy → Mechanical Energy → Electrical Energy
+-   A falling object: Gravitational PE → KE
+-   A pendulum: Continuous exchange between Gravitational PE and KE
+-   A power plant: Chemical PE → Thermal Energy → Mechanical Energy → Electrical Energy
 
 ## Closed vs. Open Systems
 
-- **Closed System**: No exchange of matter with surroundings, but energy can be exchanged.
-- **Isolated System**: No exchange of either matter or energy with surroundings.
-- **Open System**: Both matter and energy can be exchanged with surroundings.
+-   **Closed System**: No exchange of matter with surroundings, but energy can be exchanged.
+-   **Isolated System**: No exchange of either matter or energy with surroundings.
+-   **Open System**: Both matter and energy can be exchanged with surroundings.
 
 The law of conservation of energy applies strictly to isolated systems, but can be applied to closed systems if all forms of energy transfer are accounted for.
 
@@ -71,21 +72,25 @@ KE_initial + PE_initial + Other_Energies_initial = KE_final + PE_final + Other_E
 ## Example Problems
 
 ### Problem 1: Roller Coaster
+
 A 1000 kg roller coaster car starts at rest at the top of a 40 m high hill. Neglecting friction, what is its speed at the bottom of the hill?
 
 TODO: Add solution.
 
 ### Problem 2: Pendulum
+
 A simple pendulum with a bob mass of 0.5 kg is released from rest at an angle of 30° from the vertical. If the pendulum string is 2 m long, what is the speed of the bob at its lowest point?
 
 TODO: Add solution.
 
 ### Problem 3: Spring-Mass System
+
 A 2 kg mass is attached to a spring with spring constant k = 100 N/m. The spring is compressed 0.3 m and released. What is the maximum speed of the mass?
 
 TODO: Add solution.
 
 ### Problem 4: Energy Conversion
+
 A 1500 W electric heater is used to heat 2 kg of water. How long will it take to raise the temperature of the water from 20°C to 80°C? (Specific heat capacity of water = 4186 J/kg·K)
 
 TODO: Add solution.

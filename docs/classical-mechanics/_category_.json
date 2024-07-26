@@ -1,8 +1,8 @@
 {
-  "label": "Classical Mechanics",
-  "position": 5,
-  "link": {
-    "type": "generated-index",
-    "description": "Classical mechanics, \"a physical theory describing the motion of objects such as projectiles, parts of machinery, spacecraft, planets, stars, and galaxies.\" - Wikipedia"
-  }
+    "label": "Classical Mechanics",
+    "position": 5,
+    "link": {
+        "type": "generated-index",
+        "description": "Classical mechanics, \"a physical theory describing the motion of objects such as projectiles, parts of machinery, spacecraft, planets, stars, and galaxies.\" - Wikipedia"
+    }
 }

@@ -2,6 +2,7 @@
 title: Inverse Matrices
 sidebar_position: 3
 ---
+
 # Inverse Matrices
 
 An inverse matrix is a fundamental concept in linear algebra. For a square matrix A, its inverse (denoted as A^(-1)) is another matrix that, when multiplied with A, yields the identity matrix. Inverse matrices are crucial in solving systems of linear equations, transforming coordinates, and in various applications across mathematics, physics, and engineering.
@@ -10,7 +11,7 @@ An inverse matrix is a fundamental concept in linear algebra. For a square matri
 
 For a square matrix A, its inverse A^(-1) is defined such that:
 
-A * A^(-1) = A^(-1) * A = I
+A _ A^(-1) = A^(-1) _ A = I
 
 Where I is the identity matrix of the same dimensions as A.
 
@@ -22,13 +23,13 @@ Where I is the identity matrix of the same dimensions as A.
 
 3. **Inverse of Inverse**: (A^(-1))^(-1) = A
 
-4. **Inverse of Product**: (AB)^(-1) = B^(-1) * A^(-1)
+4. **Inverse of Product**: (AB)^(-1) = B^(-1) \* A^(-1)
 
 5. **Inverse of Transpose**: (A^T)^(-1) = (A^(-1))^T
 
 6. **Determinant**: det(A^(-1)) = 1 / det(A)
 
-7. **Inverse of Scalar Multiple**: (kA)^(-1) = (1/k) * A^(-1), where k ≠ 0
+7. **Inverse of Scalar Multiple**: (kA)^(-1) = (1/k) \* A^(-1), where k ≠ 0
 
 ## Conditions for Invertibility
 
@@ -49,14 +50,14 @@ For a 2×2 matrix A = [a, b]
 
 If ad - bc ≠ 0, then:
 
-A^(-1) = (1 / (ad - bc)) * [ d, -b]
-[-c,  a]
+A^(-1) = (1 / (ad - bc)) \* [ d, -b]
+[-c, a]
 
 ### 2. Adjugate Method
 
 For an n×n matrix A:
 
-A^(-1) = (1 / det(A)) * adj(A)
+A^(-1) = (1 / det(A)) \* adj(A)
 
 Where adj(A) is the adjugate matrix of A (the transpose of its cofactor matrix).
 
@@ -96,10 +97,12 @@ For large matrices, iterative methods like the Newton-Schulz algorithm can be mo
 ## Computational Considerations
 
 1. **Efficiency**:
+
     - Direct computation is O(n^3) for an n×n matrix
     - For large matrices, iterative methods may be more efficient
 
 2. **Numerical Stability**:
+
     - Computing inverses can be numerically unstable, especially for ill-conditioned matrices
     - Often, it's better to solve Ax = b directly rather than computing A^(-1)b
 

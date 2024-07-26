@@ -12,7 +12,7 @@ Whenever you encounter a new symbol in your physics studies, refer to this guide
 ## Greek Letters
 
 | Symbol | Name    | Pronunciation           | Common Uses                                                   |
-|--------|---------|-------------------------|---------------------------------------------------------------|
+| ------ | ------- | ----------------------- | ------------------------------------------------------------- |
 | α      | Alpha   | AL-fuh                  | Angular acceleration, alpha particle, fine-structure constant |
 | β      | Beta    | BAY-tuh                 | Beta particle, velocity relative to speed of light            |
 | γ      | Gamma   | GAM-uh                  | Lorentz factor, photon                                        |
@@ -40,7 +40,7 @@ Whenever you encounter a new symbol in your physics studies, refer to this guide
 ## Latin and Other Symbols
 
 | Symbol  | Pronunciation | Common Uses                         |
-|---------|---------------|-------------------------------------|
+| ------- | ------------- | ----------------------------------- |
 | a       | ay            | Acceleration                        |
 | A       | ay            | Area                                |
 | B       | bee           | Magnetic field                      |
@@ -84,7 +84,7 @@ Whenever you encounter a new symbol in your physics studies, refer to this guide
 ## Special Symbols and Operators
 
 | Symbol | Pronunciation          | Meaning                |
-|--------|------------------------|------------------------|
+| ------ | ---------------------- | ---------------------- |
 | ∇      | del                    | Gradient operator      |
 | ∂      | partial                | Partial derivative     |
 | ∑      | sum                    | Summation              |
@@ -100,60 +100,65 @@ Whenever you encounter a new symbol in your physics studies, refer to this guide
 
 ### 1. Scalar Notation
 
-- Scalars are typically represented by italicized letters: m (mass), T (temperature)
-- Scalar quantities have magnitude but no direction
+-   Scalars are typically represented by italicized letters: m (mass), T (temperature)
+-   Scalar quantities have magnitude but no direction
 
 ### 2. Vector Notation
 
-- Vectors are often represented in several ways:
-  a. Bold letters: **F**, **v**
-  b. Letters with arrows above: F→, v→
-  c. Letters with a hat (unit vectors): î, ĵ, k̂
-- Vector components are often written with subscripts: Fx, vy, az
-- The magnitude of a vector is often represented by the same letter without bold or arrow: |**F**| or F
+-   Vectors are often represented in several ways:
+    a. Bold letters: **F**, **v**
+    b. Letters with arrows above: F→, v→
+    c. Letters with a hat (unit vectors): î, ĵ, k̂
+-   Vector components are often written with subscripts: Fx, vy, az
+-   The magnitude of a vector is often represented by the same letter without bold or arrow: |**F**| or F
 
 ### 3. Tensor Notation
 
-- Tensors are often represented by bold capital letters or letters with two arrows: **T** or T↔
-- Components of tensors are often written with two subscripts: Tij
+-   Tensors are often represented by bold capital letters or letters with two arrows: **T** or T↔
+-   Components of tensors are often written with two subscripts: Tij
 
 ### 4. Matrix Notation
 
-- Matrices are often represented by bold capital letters or square brackets:
-  **A** or [A]
-- Elements of matrices are often written with two subscripts: Aij
+-   Matrices are often represented by bold capital letters or square brackets:
+    **A** or [A]
+-   Elements of matrices are often written with two subscripts: Aij
 
 ### 5. Bra-Ket Notation (Dirac Notation)
 
-- Used in quantum mechanics
-- Bra: ⟨ψ|
-- Ket: |ψ⟩
-- Inner product: ⟨ψ|φ⟩
+-   Used in quantum mechanics
+-   Bra: ⟨ψ|
+-   Ket: |ψ⟩
+-   Inner product: ⟨ψ|φ⟩
 
 ### 6. Einstein Summation Notation
 
-- Repeated indices in a term imply summation over that index
-- Example: AiBi = A1B1 + A2B2 + A3B3
+-   Repeated indices in a term imply summation over that index
+-   Example: AiBi = A1B1 + A2B2 + A3B3
 
 ## Common Uses for Subscripts and Superscripts
 
 ### Subscripts
 
 1. Component indication:
+
     - Fx, Fy, Fz: x, y, and z components of force
 
 2. Particle or object identification:
+
     - m1, m2: masses of object 1 and object 2
 
 3. Initial and final states:
+
     - vi: initial velocity
     - vf: final velocity
 
 4. Specific types or conditions:
+
     - Ek: kinetic energy
     - Ep: potential energy
 
 5. Maximum or minimum values:
+
     - vmax: maximum velocity
     - Imin: minimum moment of inertia
 
@@ -163,25 +168,31 @@ Whenever you encounter a new symbol in your physics studies, refer to this guide
 ### Superscripts
 
 1. Powers:
+
     - v²: velocity squared
     - r³: radius cubed
 
 2. Atomic or nuclear states:
+
     - ²³⁵U: uranium-235 isotope
 
 3. Charge:
+
     - e⁻: electron
     - p⁺: proton
 
 4. Vector components in specific coordinate systems:
+
     - vʳ, vᶿ, vᵠ: radial, polar, and azimuthal components in spherical coordinates
 
 5. Quantum numbers:
+
     - nˡ: principal quantum number n, azimuthal quantum number l
 
 6. Mathematical operations:
+
     - A⁻¹: inverse of matrix A
-    - x*: complex conjugate of x
+    - x\*: complex conjugate of x
 
 7. Units:
     - 5.2 × 10⁶ m: 5.2 million meters
@@ -190,8 +201,8 @@ Whenever you encounter a new symbol in your physics studies, refer to this guide
 
 Physics often combines various notation types. For example:
 
-- ⟨ψ|Ĥ|ψ⟩: expectation value of the Hamiltonian operator in quantum mechanics
-- ∇ × **B** = μ₀**J** + μ₀ε₀∂**E**/∂t: one of Maxwell's equations in electromagnetism
+-   ⟨ψ|Ĥ|ψ⟩: expectation value of the Hamiltonian operator in quantum mechanics
+-   ∇ × **B** = μ₀**J** + μ₀ε₀∂**E**/∂t: one of Maxwell's equations in electromagnetism
 
 ## Usage Tips
 
@@ -211,4 +222,3 @@ Physics often combines various notation types. For example:
 7. Primes (′) are often used to denote related quantities or derivatives with respect to a variable other than time.
 
 Remember, while this guide covers many common symbols, it's not exhaustive. Physics is a vast field, and symbols may vary depending on the specific area of study or the preferences of individual authors or institutions.
-

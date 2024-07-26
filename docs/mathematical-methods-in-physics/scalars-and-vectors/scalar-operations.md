@@ -2,6 +2,7 @@
 title: Scalar Operations
 sidebar_position: 3
 ---
+
 # Scalar Operations
 
 ## Introduction
@@ -12,23 +13,26 @@ Scalar operations involve manipulating scalar quantities - those that have magni
 
 While scalars and vectors both have operations associated with them, there are key differences:
 
-- **Scalars**: Represent quantities with magnitude only (e.g., mass, temperature).
-- **Vectors**: Represent quantities with magnitude and direction (e.g., force, velocity).
-- **Scalar Operations**: Involve arithmetic operations on scalar quantities.
-- **Vector Operations**: Involve vector addition, subtraction, and scalar multiplication.
+-   **Scalars**: Represent quantities with magnitude only (e.g., mass, temperature).
+-   **Vectors**: Represent quantities with magnitude and direction (e.g., force, velocity).
+-   **Scalar Operations**: Involve arithmetic operations on scalar quantities.
+-   **Vector Operations**: Involve vector addition, subtraction, and scalar multiplication.
 
 ## Basic Scalar Operations
 
 1. **Addition and Subtraction**
+
     - Scalars can be directly added or subtracted.
     - Example: If the temperature rises from 20°C to 25°C, the change is 25°C - 20°C = 5°C.
 
 2. **Multiplication**
+
     - Scalars can be multiplied together.
     - The result of multiplying two scalars is always a scalar.
     - Example: Area = length × width (both length and width are scalars)
 
 3. **Division**
+
     - Scalars can be divided by other scalars.
     - Example: Density = mass ÷ volume
 
@@ -39,17 +43,21 @@ While scalars and vectors both have operations associated with them, there are k
 ## Properties of Scalar Operations
 
 1. **Commutative Property**
+
     - For addition: a + b = b + a
     - For multiplication: a × b = b × a
 
 2. **Associative Property**
+
     - For addition: (a + b) + c = a + (b + c)
     - For multiplication: (a × b) × c = a × (b × c)
 
 3. **Distributive Property**
+
     - a × (b + c) = (a × b) + (a × c)
 
 4. **Identity Elements**
+
     - Additive identity: a + 0 = a
     - Multiplicative identity: a × 1 = a
 
@@ -60,15 +68,19 @@ While scalars and vectors both have operations associated with them, there are k
 ## Applications in Physics
 
 1. **Calculating Total Energy**
+
     - E = KE + PE (Kinetic Energy + Potential Energy)
 
 2. **Determining Pressure**
+
     - P = F / A (Force divided by Area)
 
 3. **Computing Work**
+
     - W = F × d (Force multiplied by displacement, when force is parallel to displacement)
 
 4. **Calculating Power**
+
     - P = W / t (Work divided by time)
 
 5. **Finding Average Velocity**
@@ -79,13 +91,16 @@ While scalars and vectors both have operations associated with them, there are k
 When performing scalar operations, it's crucial to consider the units:
 
 1. **Addition/Subtraction**: Only scalars with the same units can be added or subtracted.
+
     - Correct: 5 m + 3 m = 8 m
     - Incorrect: 5 m + 3 s (cannot be directly added)
 
 2. **Multiplication**: Units are multiplied.
+
     - Example: Force (N) = mass (kg) × acceleration (m/s²)
 
 3. **Division**: Units are divided.
+
     - Example: Velocity (m/s) = displacement (m) ÷ time (s)
 
 4. **Exponentiation**: Units are raised to the same power as the scalar.

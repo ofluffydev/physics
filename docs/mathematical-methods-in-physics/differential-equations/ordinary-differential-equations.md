@@ -2,6 +2,7 @@
 title: Ordinary Differential Equations
 sidebar_position: 1
 ---
+
 # Ordinary Differential Equations (ODEs)
 
 Ordinary Differential Equations (ODEs) are equations that contain one or more derivatives of an unknown function with respect to a single independent variable. They are fundamental in modeling various physical, biological, and economic phenomena.
@@ -12,7 +13,7 @@ Ordinary Differential Equations (ODEs) are equations that contain one or more de
    Example: y'' + 3y' + 2y = 0 is a second-order ODE.
 
 2. **Linearity**: An ODE is linear if it's of the form:
-   a_n(x)y^(n) + a_(n-1)(x)y^(n-1) + ... + a_1(x)y' + a_0(x)y = g(x)
+   a*n(x)y^(n) + a*(n-1)(x)y^(n-1) + ... + a_1(x)y' + a_0(x)y = g(x)
    where a_i(x) and g(x) are functions of x only.
 
 3. **Homogeneity**: A linear ODE is homogeneous if g(x) = 0.
@@ -83,21 +84,25 @@ The general form is: a(x)y'' + b(x)y' + c(x)y = g(x)
 ## Applications
 
 1. **Physics**:
+
     - Motion of objects (Newton's laws)
     - Oscillations (spring-mass systems, pendulums)
     - Electric circuits
 
 2. **Biology**:
+
     - Population dynamics
     - Enzyme kinetics
     - Epidemiology models (SIR model)
 
 3. **Engineering**:
+
     - Control systems
     - Heat transfer
     - Fluid dynamics
 
 4. **Economics**:
+
     - Market equilibrium models
     - Growth models
 

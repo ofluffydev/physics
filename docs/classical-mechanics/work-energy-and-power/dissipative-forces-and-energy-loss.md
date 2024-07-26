@@ -3,6 +3,7 @@ title: Dissipative forces and energy loss
 sidebar_label: Dissipative Forces & Energy Loss
 sidebar_position: 6
 ---
+
 # Dissipative Forces and Energy Loss
 
 ## Introduction
@@ -29,8 +30,9 @@ The energy loss due to dissipative forces can be calculated using the work-energ
 ΔE = W_nc
 
 Where:
-- ΔE is the change in mechanical energy
-- W_nc is the work done by non-conservative (dissipative) forces
+
+-   ΔE is the change in mechanical energy
+-   W_nc is the work done by non-conservative (dissipative) forces
 
 ## Friction as a Dissipative Force
 
@@ -38,21 +40,23 @@ Friction is one of the most common dissipative forces encountered in everyday li
 
 The work done by friction is given by:
 
-W_f = -f * d
+W_f = -f \* d
 
 Where:
-- W_f is the work done by friction
-- f is the magnitude of the friction force
-- d is the distance traveled
+
+-   W_f is the work done by friction
+-   f is the magnitude of the friction force
+-   d is the distance traveled
 
 ### Example Problem: Sliding Block
 
 A 2 kg block is pushed 5 meters across a horizontal surface with a coefficient of kinetic friction μ_k = 0.3. Calculate the energy lost due to friction.
 
 Solution:
-1. Calculate the normal force: N = mg = 2 kg * 9.8 m/s² = 19.6 N
-2. Calculate the friction force: f = μ_k * N = 0.3 * 19.6 N = 5.88 N
-3. Calculate the work done by friction: W_f = -f * d = -5.88 N * 5 m = -29.4 J
+
+1. Calculate the normal force: N = mg = 2 kg \* 9.8 m/s² = 19.6 N
+2. Calculate the friction force: f = μ_k _ N = 0.3 _ 19.6 N = 5.88 N
+3. Calculate the work done by friction: W_f = -f _ d = -5.88 N _ 5 m = -29.4 J
 
 The energy lost due to friction is 29.4 J, which is converted to heat.
 
@@ -65,9 +69,10 @@ For low speeds, the drag force is approximately proportional to the velocity:
 F_d = -bv
 
 Where:
-- F_d is the drag force
-- b is the drag coefficient
-- v is the velocity
+
+-   F_d is the drag force
+-   b is the drag coefficient
+-   v is the velocity
 
 For higher speeds, the drag force is often proportional to the square of the velocity:
 
@@ -83,7 +88,7 @@ Solution:
 At terminal velocity, the drag force equals the weight of the skydiver:
 
 cv² = mg
-0.25v² = 70 * 9.8
+0.25v² = 70 \* 9.8
 v² = 2744
 v = √2744 ≈ 52.4 m/s
 

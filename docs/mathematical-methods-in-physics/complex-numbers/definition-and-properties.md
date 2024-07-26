@@ -2,6 +2,7 @@
 title: Definition and properties
 sidebar_position: 1
 ---
+
 # Definition and Properties of Complex Numbers
 
 Complex numbers are a fundamental concept in mathematics, extending the idea of the one-dimensional number line to a two-dimensional complex plane. They play a crucial role in various fields of mathematics, physics, and engineering.
@@ -13,9 +14,10 @@ A complex number z is defined as:
 z = a + bi
 
 where:
-- a is the real part
-- b is the imaginary part
-- i is the imaginary unit, defined as i² = -1
+
+-   a is the real part
+-   b is the imaginary part
+-   i is the imaginary unit, defined as i² = -1
 
 The set of all complex numbers is denoted by ℂ.
 
@@ -33,7 +35,7 @@ The set of all complex numbers is denoted by ℂ.
 1. **Equality**: Two complex numbers are equal if and only if their real and imaginary parts are equal.
    z₁ = z₂ iff a₁ = a₂ and b₁ = b₂
 
-2. **Complex Conjugate**: For z = a + bi, its complex conjugate is z* = a - bi
+2. **Complex Conjugate**: For z = a + bi, its complex conjugate is z\* = a - bi
 
 3. **Absolute Value (Modulus)**: |z| = √(a² + b²)
 
@@ -53,9 +55,9 @@ The set of all complex numbers is denoted by ℂ.
 
 ## Important Identities
 
-1. z · z* = |z|²
+1. z · z\* = |z|²
 
-2. (z₁ · z₂)* = z₁* · z₂*
+2. (z₁ · z₂)_ = z₁_ · z₂\*
 
 3. |z₁ · z₂| = |z₁| · |z₂|
 

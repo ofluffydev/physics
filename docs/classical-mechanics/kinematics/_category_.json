@@ -1,8 +1,8 @@
 {
-  "label": "Kinematics",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "The math of motion, without regard to the forces that cause it."
-  }
+    "label": "Kinematics",
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "description": "The math of motion, without regard to the forces that cause it."
+    }
 }

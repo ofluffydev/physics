@@ -2,6 +2,7 @@
 title: Series solutions
 sidebar_position: 4
 ---
+
 # Series Solutions
 
 Series solutions are a powerful method for solving linear ordinary differential equations (ODEs), particularly when other methods like separation of variables or integrating factors are not applicable. This approach involves representing the solution as an infinite series of terms.

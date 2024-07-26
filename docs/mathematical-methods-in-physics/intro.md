@@ -3,6 +3,7 @@ title: Introduction to Mathematical Methods in Physics
 sidebar_position: 1
 sidebar_label: Math Intro
 ---
+
 # Introduction to Mathematical Methods in Physics
 
 ## Why Mathematics is the Language of Physics
@@ -12,6 +13,7 @@ Physics, at its core, is the study of the fundamental principles governing the n
 AP Physics 1's full name is "AP Physics 1: Algebra-Based." This means that the course is designed to be accessible to students with a strong foundation in algebra and trigonometry, without requiring advanced calculus. However, as you progress in your study of physics, you'll encounter more advanced mathematical methods that build on these foundational concepts.
 
 ## This Course
+
 Although most AP/High School classes on physics assume you have prior experience with complex math, this course will include sections on the math in order to ensure everyone can follow along.
 
 For quick reference of mathematical terms, see the [dictionary](/docs/dictionary) section.

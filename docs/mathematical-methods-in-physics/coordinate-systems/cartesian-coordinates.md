@@ -2,6 +2,7 @@
 title: Cartesian Coordinates
 sidebar_position: 1
 ---
+
 # Cartesian Coordinate System
 
 ## Introduction
@@ -26,8 +27,8 @@ The Cartesian coordinate system defines the location of a point in space using a
 
 ### Notation
 
-- 2D point: (x, y)
-- 3D point: (x, y, z)
+-   2D point: (x, y)
+-   3D point: (x, y, z)
 
 Where x, y, and z represent the distances from the origin along the respective axes.
 
@@ -43,21 +44,21 @@ Where x, y, and z represent the distances from the origin along the respective a
 
 ### 1. Two-Dimensional (2D)
 
-- Uses two axes: x and y
-- Describes points on a plane
-- Example: (3, 4) represents a point 3 units along the x-axis and 4 units along the y-axis
+-   Uses two axes: x and y
+-   Describes points on a plane
+-   Example: (3, 4) represents a point 3 units along the x-axis and 4 units along the y-axis
 
 ### 2. Three-Dimensional (3D)
 
-- Uses three axes: x, y, and z
-- Describes points in space
-- Example: (2, 3, 5) represents a point 2 units along x, 3 along y, and 5 along z
+-   Uses three axes: x, y, and z
+-   Describes points in space
+-   Example: (2, 3, 5) represents a point 2 units along x, 3 along y, and 5 along z
 
 ### 3. Higher Dimensions
 
-- Can be extended to any number of dimensions
-- Used in advanced physics and mathematics
-- Example: 4D spacetime in relativity (x, y, z, t)
+-   Can be extended to any number of dimensions
+-   Used in advanced physics and mathematics
+-   Example: 4D spacetime in relativity (x, y, z, t)
 
 ## Applications in Physics
 
@@ -77,6 +78,7 @@ Where x, y, and z represent the distances from the origin along the respective a
 ## Relationships with Other Coordinate Systems
 
 1. **Polar Coordinates**:
+
     - Used for circular or radial symmetry
     - Conversion formulas:
       x = r cos(θ)
@@ -92,17 +94,20 @@ Where x, y, and z represent the distances from the origin along the respective a
 ## Advantages and Limitations
 
 ### Advantages:
+
 1. Intuitive and easy to visualize
 2. Straightforward for algebraic manipulations
 3. Direct correspondence with vector components
 
 ### Limitations:
+
 1. Not ideal for problems with circular or spherical symmetry
 2. Can be cumbersome for describing rotations
 
 ## Examples in Physics
 
 1. **Projectile Motion**:
+
     - x(t) = v₀ cos(θ) t
     - y(t) = v₀ sin(θ) t - ½gt²
       Where v₀ is initial velocity, θ is launch angle, g is gravitational acceleration, and t is time.

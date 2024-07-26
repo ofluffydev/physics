@@ -2,6 +2,7 @@
 title: Complex algebra
 sidebar_position: 2
 ---
+
 # Complex Algebra
 
 Complex algebra extends algebraic operations and concepts to the domain of complex numbers. It provides powerful tools for solving problems in various fields of mathematics, physics, and engineering.
@@ -9,12 +10,15 @@ Complex algebra extends algebraic operations and concepts to the domain of compl
 ## Basic Operations Revisited
 
 1. **Addition**: (a + bi) + (c + di) = (a + c) + (b + d)i
+
     - Geometrically: Vector addition in the complex plane
 
 2. **Subtraction**: (a + bi) - (c + di) = (a - c) + (b - d)i
+
     - Geometrically: Vector subtraction in the complex plane
 
 3. **Multiplication**: (a + bi)(c + di) = (ac - bd) + (ad + bc)i
+
     - Geometrically: Scaling and rotation in the complex plane
 
 4. **Division**: (a + bi) / (c + di) = ((ac + bd) / (c² + d²)) + ((bc - ad) / (c² + d²))i
@@ -34,14 +38,15 @@ Complex algebra extends algebraic operations and concepts to the domain of compl
 
 ## Complex Conjugates in Algebra
 
-1. **Definition**: For z = a + bi, its complex conjugate is z* = a - bi
+1. **Definition**: For z = a + bi, its complex conjugate is z\* = a - bi
 
 2. **Properties**:
-    - (z₁ + z₂)* = z₁* + z₂*
-    - (z₁ · z₂)* = z₁* · z₂*
-    - (z₁ / z₂)* = z₁* / z₂*
+
+    - (z₁ + z₂)_ = z₁_ + z₂\*
+    - (z₁ · z₂)_ = z₁_ · z₂\*
+    - (z₁ / z₂)_ = z₁_ / z₂\*
     - (z*)* = z
-    - |z| = √(z · z*)
+    - |z| = √(z · z\*)
 
 3. **Use in Rationalization**: (a + bi) / (c + di) = ((a + bi)(c - di)) / ((c + di)(c - di))
 
@@ -73,6 +78,7 @@ Complex algebra extends algebraic operations and concepts to the domain of compl
 ## Trigonometric Connections
 
 1. **Complex Exponentials**:
+
     - cos θ = (e^(iθ) + e^(-iθ)) / 2
     - sin θ = (e^(iθ) - e^(-iθ)) / 2i
 

@@ -2,6 +2,7 @@
 title: Kinetic Energy
 sidebar_position: 2
 ---
+
 # Kinetic Energy
 
 ## Introduction
@@ -19,9 +20,10 @@ For an object with mass m and velocity v, the kinetic energy is given by the equ
 KE = 1/2 mv^2
 
 Where:
-- KE is kinetic energy (measured in joules, J)
-- m is the mass of the object (measured in kilograms, kg)
-- v is the velocity of the object (measured in meters per second, m/s)
+
+-   KE is kinetic energy (measured in joules, J)
+-   m is the mass of the object (measured in kilograms, kg)
+-   v is the velocity of the object (measured in meters per second, m/s)
 
 ## Key Properties of Kinetic Energy
 
@@ -47,15 +49,19 @@ Where:
 ## Kinetic Energy in Various Scenarios
 
 ### 1. Objects in Free Fall
+
 As an object falls, its gravitational potential energy is converted into kinetic energy.
 
 ### 2. Collisions
+
 In elastic collisions, the total kinetic energy of the system is conserved. In inelastic collisions, some kinetic energy is converted to other forms.
 
 ### 3. Rotating Objects
+
 The total kinetic energy of a rolling object is the sum of its translational and rotational kinetic energies.
 
 ### 4. Molecular Motion
+
 The kinetic energy of molecules determines the temperature of a substance.
 
 ## Relationship with Other Concepts
@@ -67,21 +73,25 @@ The kinetic energy of molecules determines the temperature of a substance.
 ## Example Problems
 
 ### Problem 1: Basic Kinetic Energy Calculation
+
 A 1000 kg car is traveling at 20 m/s. Calculate its kinetic energy.
 
 TODO: Add solution.
 
 ### Problem 2: Kinetic Energy in Free Fall
+
 A 2 kg object is dropped from a height of 10 m. Ignoring air resistance, what is its kinetic energy just before it hits the ground?
 
 TODO: Add solution.
 
 ### Problem 3: Kinetic Energy in Circular Motion
+
 A 0.1 kg ball attached to a 0.5 m string is rotating in a horizontal circle at 2 revolutions per second. Calculate its kinetic energy.
 
 TODO: Add solution.
 
 ### Problem 4: Kinetic Energy in Collisions
+
 A 10 g bullet traveling at 500 m/s strikes and becomes embedded in a 5 kg stationary wooden block. What is the speed of the block immediately after the collision?
 
 TODO: Add solution.

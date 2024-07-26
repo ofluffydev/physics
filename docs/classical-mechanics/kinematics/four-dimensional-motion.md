@@ -1,8 +1,9 @@
 ---
-title: "Bonus Lesson: Four-Dimensional Motion"
+title: 'Bonus Lesson: Four-Dimensional Motion'
 sidebar_position: 9
-sidebar_label: "Bonus: 4D Motion"
+sidebar_label: 'Bonus: 4D Motion'
 ---
+
 # Four-Dimensional Motion in Spacetime
 
 ## Introduction
@@ -22,29 +23,36 @@ Four-dimensional motion extends our understanding of kinematics to include time 
 ## Fundamental Principles
 
 ### 1. Minkowski Spacetime
+
 The mathematical framework for describing four-dimensional spacetime, developed by Hermann Minkowski.
 
 ### 2. Invariance of Spacetime Interval
+
 The spacetime interval between two events is the same for all observers, regardless of their relative motion.
 
 ### 3. Relativity of Simultaneity
+
 Events that appear simultaneous to one observer may not be simultaneous to another observer in relative motion.
 
 ## Mathematical Representation
 
 ### 1. Four-vectors
+
 Position four-vector: x^μ = (ct, x, y, z)
 Where:
-- c is the speed of light
-- t is time
-- x, y, z are spatial coordinates
-- μ is an index running from 0 to 3 (0 for time, 1-3 for space)
+
+-   c is the speed of light
+-   t is time
+-   x, y, z are spatial coordinates
+-   μ is an index running from 0 to 3 (0 for time, 1-3 for space)
 
 ### 2. Metric Tensor
+
 In flat spacetime (Minkowski space), the metric tensor is:
 g^μν = diag(-1, 1, 1, 1)
 
 ### 3. Spacetime Interval
+
 ds² = -c²dt² + dx² + dy² + dz²
 
 ## Lorentz Transformations
@@ -55,17 +63,20 @@ x' = γ(x - vt)
 t' = γ(t - vx/c²)
 
 Where:
-- γ = 1/√(1 - v²/c²) is the Lorentz factor
-- v is the relative velocity between frames
-- c is the speed of light
+
+-   γ = 1/√(1 - v²/c²) is the Lorentz factor
+-   v is the relative velocity between frames
+-   c is the speed of light
 
 ## Time Dilation and Length Contraction
 
 ### 1. Time Dilation
+
 Δt' = γΔt
 Where Δt is the proper time interval and Δt' is the dilated time interval.
 
 ### 2. Length Contraction
+
 L' = L/γ
 Where L is the proper length and L' is the contracted length.
 
@@ -100,15 +111,19 @@ L' = L / γ = 10 light-years / 1.67 ≈ 5.99 light-years
 ## Advanced Topics
 
 ### 1. Minkowski Diagrams
+
 Graphical representations of spacetime events and worldlines.
 
 ### 2. Proper Velocity
+
 The rate of change of position with respect to proper time.
 
 ### 3. Four-momentum
+
 Combining energy and three-dimensional momentum into a four-vector.
 
 ### 4. Twin Paradox
+
 A thought experiment illustrating the effects of time dilation in accelerated reference frames.
 
 ## Common Misconceptions

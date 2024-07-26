@@ -1,8 +1,8 @@
 {
-  "label": "Complex Numbers",
-  "position": 7,
-  "link": {
-    "type": "generated-index",
-    "description": "Complex numbers are present all throughout physics, and are a fundamental concept in quantum mechanics. This section covers the basics of complex numbers, including arithmetic, polar form, and Euler's formula."
-  }
+    "label": "Complex Numbers",
+    "position": 7,
+    "link": {
+        "type": "generated-index",
+        "description": "Complex numbers are present all throughout physics, and are a fundamental concept in quantum mechanics. This section covers the basics of complex numbers, including arithmetic, polar form, and Euler's formula."
+    }
 }

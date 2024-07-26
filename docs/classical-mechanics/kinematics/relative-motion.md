@@ -2,6 +2,7 @@
 title: Relative Motion
 sidebar_position: 8
 ---
+
 # Relative Motion in Kinematics
 
 ## Introduction
@@ -17,14 +18,17 @@ Relative motion is the study of how objects move in relation to each other or to
 ## Fundamental Principles
 
 ### 1. Relative Position
+
 The position of an object A relative to object B is the vector from B to A:
 r_AB = r_A - r_B
 
 ### 2. Relative Velocity
+
 The velocity of object A relative to object B is the rate of change of their relative position:
 v_AB = v_A - v_B
 
 ### 3. Relative Acceleration
+
 The acceleration of object A relative to object B is the rate of change of their relative velocity:
 a_AB = a_A - a_B
 
@@ -37,15 +41,19 @@ a_AB = a_A - a_B
 ## Common Scenarios
 
 ### 1. Motion on Moving Platforms
+
 Example: A person walking on a moving train
 
 ### 2. River Crossing Problems
+
 Example: A boat crossing a flowing river
 
 ### 3. Pursuit Problems
+
 Example: One vehicle chasing another
 
 ### 4. Motion in Moving Fluids
+
 Example: An airplane flying through moving air (wind)
 
 ## Problem-Solving Approach
@@ -68,6 +76,7 @@ Solution:
 
 1. Define reference frame: Let's use the shore as our reference frame.
 2. Identify velocities:
+
     - Boat relative to water: v_BW = 5 m/s (perpendicular to shore)
     - Water relative to shore: v_WS = 3 m/s (parallel to shore)
     - We need to find: Boat relative to shore (v_BS)
@@ -83,7 +92,7 @@ a) Time to cross:
 t = distance / velocity = 100 m / 5 m/s = 20 s
 
 b) Distance drifted downstream:
-d = velocity * time = 3 m/s * 20 s = 60 m
+d = velocity _ time = 3 m/s _ 20 s = 60 m
 
 c) Actual velocity relative to shore:
 |v_BS| = √(5² + 3²) = 5.83 m/s
@@ -100,12 +109,15 @@ Direction: θ = tan⁻¹(3/5) = 30.96° downstream
 ## Advanced Topics
 
 ### 1. Relative Motion in Rotating Frames
+
 Introduces concepts like Coriolis force and centrifugal force.
 
 ### 2. Einstein's Theory of Relativity
+
 Deals with relative motion at very high speeds, where Galilean relativity breaks down.
 
 ### 3. Doppler Effect
+
 The change in observed frequency of a wave when source and observer are in relative motion.
 
 ## Common Misconceptions

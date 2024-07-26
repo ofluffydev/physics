@@ -2,6 +2,7 @@
 title: Vector Functions
 sidebar_position: 1
 ---
+
 # Vector Functions
 
 In vector calculus, a vector function is a mathematical function that takes one or more variables as input and produces a vector as output. These functions are essential for describing various physical phenomena and are widely used in physics, engineering, and advanced mathematics.
@@ -13,9 +14,10 @@ A vector function **r**(t) in three-dimensional space is typically expressed as:
 **r**(t) = f(t)**i** + g(t)**j** + h(t)**k**
 
 where:
-- t is the independent variable (often representing time)
-- f(t), g(t), and h(t) are scalar functions
-- **i**, **j**, and **k** are unit vectors in the x, y, and z directions, respectively
+
+-   t is the independent variable (often representing time)
+-   f(t), g(t), and h(t) are scalar functions
+-   **i**, **j**, and **k** are unit vectors in the x, y, and z directions, respectively
 
 ## Components and Notation
 
@@ -28,6 +30,7 @@ Each component function represents how the vector changes along a particular axi
 ## Properties
 
 1. **Domain and Range**:
+
     - The domain is the set of all possible input values.
     - The range is the set of all possible output vectors.
 
@@ -74,9 +77,9 @@ where **C** is a constant vector of integration.
 
 Vector functions are fundamental to many other concepts in vector calculus:
 
-- They are used in defining and working with parametric surfaces.
-- The study of vector fields builds upon the idea of vector functions.
-- Line integrals and surface integrals often involve vector functions.
-- In multivariable calculus, vector functions play a crucial role in understanding gradients, divergence, and curl.
+-   They are used in defining and working with parametric surfaces.
+-   The study of vector fields builds upon the idea of vector functions.
+-   Line integrals and surface integrals often involve vector functions.
+-   In multivariable calculus, vector functions play a crucial role in understanding gradients, divergence, and curl.
 
 Understanding vector functions is crucial for delving deeper into more advanced topics in vector calculus and their applications in physics and engineering.

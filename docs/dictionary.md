@@ -4,7 +4,7 @@ description: A glossary of physics terms and concepts for quick reference.
 sidebar_position: 1000
 ---
 
-#  A collection of physics terms for quick reference
+# A collection of physics terms for quick reference
 
 ## Magnitude
 
@@ -14,15 +14,13 @@ sidebar_position: 1000
 
 The magnitude of a physical quantity is its size or quantity, irrespective of its direction or sign. For example, the magnitude of a vector is the length of the vector, regardless of its direction.
 
-
 ## Scalar
 
-**Quick Definition**:  A value with no direction, only magnitude.
+**Quick Definition**: A value with no direction, only magnitude.
 
-**Origin**: Latin "scalaris" meaning "of or pertaining to a ladder". 
+**Origin**: Latin "scalaris" meaning "of or pertaining to a ladder".
 
 A scalar is a physical quantity that has **magnitude** only and no direction in space. Examples of scalars include mass, temperature, and speed.
-
 
 ## Vector
 

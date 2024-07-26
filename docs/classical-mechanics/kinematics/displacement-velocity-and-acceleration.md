@@ -2,6 +2,7 @@
 title: Displacement, Velocity, and Acceleration
 sidebar_position: 6
 ---
+
 # Displacement, Velocity, and Acceleration in Kinematics
 
 ## Introduction
@@ -11,30 +12,37 @@ Displacement, velocity, and acceleration are three fundamental concepts in kinem
 ## Displacement
 
 ### Definition
+
 Displacement is a vector quantity that represents the shortest distance between two points in a given direction. It is the change in position of an object.
 
 ### Mathematical Representation
+
 Δx = x_f - x_i
 Where:
-- Δx is displacement
-- x_f is final position
-- x_i is initial position
+
+-   Δx is displacement
+-   x_f is final position
+-   x_i is initial position
 
 ### Key Points
+
 1. Displacement is a vector (has magnitude and direction).
 2. It represents the straight-line distance between start and end points, not the total distance traveled.
 3. Can be positive, negative, or zero.
 4. Unit: meters (m) in SI system.
 
 ### Example
+
 If a car drives 5 km east, then 3 km north, its displacement is not 8 km, but rather √(5² + 3²) = 5.83 km northeast.
 
 ## Velocity
 
 ### Definition
+
 Velocity is a vector quantity that represents the rate of change of displacement with respect to time. It describes how fast an object is moving and in what direction.
 
 ### Types of Velocity
+
 1. Average Velocity:
    v_avg = Δx / Δt
    Where Δx is displacement and Δt is time interval.
@@ -43,20 +51,24 @@ Velocity is a vector quantity that represents the rate of change of displacement
    v = lim[Δt→0] (Δx / Δt) = dx/dt
 
 ### Key Points
+
 1. Velocity is a vector (has magnitude and direction).
 2. The magnitude of velocity is speed.
 3. Can be positive, negative, or zero.
 4. Unit: meters per second (m/s) in SI system.
 
 ### Example
+
 If a car travels 150 meters east in 10 seconds, its average velocity is 15 m/s east.
 
 ## Acceleration
 
 ### Definition
+
 Acceleration is a vector quantity that represents the rate of change of velocity with respect to time. It describes how quickly an object's velocity is changing.
 
 ### Mathematical Representation
+
 1. Average Acceleration:
    a_avg = Δv / Δt
    Where Δv is change in velocity and Δt is time interval.
@@ -65,12 +77,14 @@ Acceleration is a vector quantity that represents the rate of change of velocity
    a = lim[Δt→0] (Δv / Δt) = dv/dt
 
 ### Key Points
+
 1. Acceleration is a vector (has magnitude and direction).
 2. Can be positive (speeding up), negative (slowing down), or zero (constant velocity).
 3. An object can be accelerating even if its speed is constant (e.g., circular motion).
 4. Unit: meters per second squared (m/s²) in SI system.
 
 ### Example
+
 If a car increases its velocity from 10 m/s to 25 m/s in 5 seconds, its average acceleration is (25 m/s - 10 m/s) / 5 s = 3 m/s².
 
 ## Relationships Between Displacement, Velocity, and Acceleration
@@ -93,10 +107,12 @@ If a car increases its velocity from 10 m/s to 25 m/s in 5 seconds, its average 
 ## Graphical Representations
 
 1. Displacement-Time Graph:
+
     - Slope represents velocity
     - Curved line indicates changing velocity (acceleration)
 
 2. Velocity-Time Graph:
+
     - Slope represents acceleration
     - Area under the curve represents displacement
 
@@ -139,7 +155,7 @@ Phase 2 (constant velocity): x₂ = vt = (20 m/s)(20 s) = 400 m
 Phase 3 (deceleration):
 Final velocity = 0, initial velocity = 20 m/s, time = 5 s
 Average velocity = (0 + 20)/2 = 10 m/s
-x₃ = v_avg * t = (10 m/s)(5 s) = 50 m
+x₃ = v_avg \* t = (10 m/s)(5 s) = 50 m
 
 Total displacement = x₁ + x₂ + x₃ = 100 + 400 + 50 = 550 m
 

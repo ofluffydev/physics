@@ -1,8 +1,8 @@
 {
-  "label": "Scalars and Vectors",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "Scalars and vectors are the basic building blocks of physics. Learn how to work with them here."
-  }
+    "label": "Scalars and Vectors",
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "description": "Scalars and vectors are the basic building blocks of physics. Learn how to work with them here."
+    }
 }

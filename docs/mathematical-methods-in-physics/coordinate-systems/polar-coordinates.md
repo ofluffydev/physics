@@ -2,6 +2,7 @@
 title: Polar Coordinates
 sidebar_position: 2
 ---
+
 # Polar Coordinate System
 
 ## Introduction
@@ -13,6 +14,7 @@ The polar coordinate system is an alternative to the Cartesian system for descri
 ### Definition
 
 The polar coordinate system defines the location of a point in a plane using two coordinates:
+
 1. The radial coordinate (r): the distance from the pole to the point
 2. The angular coordinate (θ): the angle from the polar axis to the line from the pole to the point
 
@@ -26,8 +28,9 @@ The polar coordinate system defines the location of a point in a plane using two
 ### Notation
 
 A point in polar coordinates is represented as (r, θ), where:
-- r ≥ 0 (can be zero, but not negative)
-- 0 ≤ θ < 2π (or -π < θ ≤ π, depending on convention)
+
+-   r ≥ 0 (can be zero, but not negative)
+-   0 ≤ θ < 2π (or -π < θ ≤ π, depending on convention)
 
 ## Properties
 
@@ -39,10 +42,12 @@ A point in polar coordinates is represented as (r, θ), where:
 ## Conversion between Polar and Cartesian Coordinates
 
 ### Polar to Cartesian:
+
 x = r cos(θ)
 y = r sin(θ)
 
 ### Cartesian to Polar:
+
 r = √(x² + y²)
 θ = tan⁻¹(y/x) (with appropriate quadrant adjustments)
 
@@ -64,11 +69,13 @@ r = √(x² + y²)
 ## Advantages and Limitations
 
 ### Advantages:
+
 1. Simplifies problems with circular or radial symmetry
 2. Natural for describing rotations and periodic phenomena
 3. Can represent infinite distances with finite angular coordinates
 
 ### Limitations:
+
 1. Multiple representations for a single point (except the pole)
 2. Less intuitive for linear relationships
 3. Calculations can be more complex for non-radial problems
@@ -94,10 +101,12 @@ r = √(x² + y²)
 ## Polar Coordinates in Higher Dimensions
 
 ### Cylindrical Coordinates (3D extension of polar coordinates):
-- Uses (r, θ, z), where z is the height above the polar plane
+
+-   Uses (r, θ, z), where z is the height above the polar plane
 
 ### Spherical Coordinates:
-- Uses (r, θ, φ), where r is radial distance, θ is azimuthal angle in the x-y plane, and φ is polar angle from the z-axis
+
+-   Uses (r, θ, φ), where r is radial distance, θ is azimuthal angle in the x-y plane, and φ is polar angle from the z-axis
 
 ## Conclusion
 

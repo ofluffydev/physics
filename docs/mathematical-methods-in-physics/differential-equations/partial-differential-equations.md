@@ -2,6 +2,7 @@
 title: Partial Differential Equations
 sidebar_position: 2
 ---
+
 # Partial Differential Equations (PDEs)
 
 Partial Differential Equations (PDEs) are equations that involve partial derivatives of an unknown function with respect to two or more independent variables. They are fundamental in modeling complex physical phenomena and have wide-ranging applications in physics, engineering, and applied mathematics.
@@ -24,18 +25,23 @@ Partial Differential Equations (PDEs) are equations that involve partial derivat
 ## Important Types of PDEs
 
 1. **Laplace's Equation**: ∇²u = 0
+
     - Describes steady-state heat distribution, electrostatics, fluid flow
 
 2. **Heat Equation**: ∂u/∂t = α∇²u
+
     - Models heat diffusion and other diffusion processes
 
 3. **Wave Equation**: ∂²u/∂t² = c²∇²u
+
     - Describes wave propagation (sound, light, water waves)
 
 4. **Schrödinger Equation**: iℏ∂ψ/∂t = -ℏ²/2m ∇²ψ + Vψ
+
     - Fundamental equation in quantum mechanics
 
 5. **Navier-Stokes Equations**:
+
     - Describe fluid motion
 
 6. **Poisson's Equation**: ∇²u = f
@@ -44,18 +50,21 @@ Partial Differential Equations (PDEs) are equations that involve partial derivat
 ## Solution Methods
 
 1. **Analytical Methods**:
+
     - Separation of variables
     - Fourier series and transforms
     - Green's functions
     - Method of characteristics (for first-order PDEs)
 
 2. **Numerical Methods**:
+
     - Finite difference methods
     - Finite element methods
     - Spectral methods
     - Boundary element methods
 
 3. **Perturbation Methods**:
+
     - For PDEs with small parameters
 
 4. **Variational Methods**:
@@ -78,6 +87,7 @@ For time-dependent PDEs, initial conditions specify the state of the system at t
 ## Well-Posedness
 
 A problem is well-posed in the sense of Hadamard if:
+
 1. A solution exists
 2. The solution is unique
 3. The solution depends continuously on the data
@@ -85,20 +95,24 @@ A problem is well-posed in the sense of Hadamard if:
 ## Applications
 
 1. **Physics**:
+
     - Electromagnetic theory (Maxwell's equations)
     - Quantum mechanics (Schrödinger equation)
     - Fluid dynamics (Navier-Stokes equations)
     - Acoustics (Wave equation)
 
 2. **Engineering**:
+
     - Heat transfer
     - Structural mechanics
     - Control theory
 
 3. **Financial Mathematics**:
+
     - Black-Scholes equation for option pricing
 
 4. **Biology**:
+
     - Population dynamics
     - Pattern formation (reaction-diffusion equations)
 
@@ -108,21 +122,26 @@ A problem is well-posed in the sense of Hadamard if:
 ## Advanced Topics
 
 1. **Nonlinear PDEs**:
+
     - Shock waves
     - Solitons
     - Burger's equation
 
 2. **Systems of PDEs**:
+
     - Coupled equations in fluid dynamics, elasticity
 
 3. **Distributional Solutions**:
+
     - Weak solutions for PDEs that don't have classical solutions
 
 4. **Functional Analysis Approach**:
+
     - Sobolev spaces
     - Variational formulations
 
 5. **Conservation Laws**:
+
     - PDEs derived from conservation principles
 
 6. **Asymptotic Analysis**:

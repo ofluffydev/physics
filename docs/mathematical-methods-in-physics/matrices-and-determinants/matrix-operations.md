@@ -2,6 +2,7 @@
 title: Matrix Operations
 sidebar_position: 1
 ---
+
 # Matrix Operations
 
 Matrices are fundamental structures in linear algebra and have wide-ranging applications in mathematics, physics, computer science, and engineering. Understanding matrix operations is crucial for solving systems of linear equations, transforming coordinates, and analyzing complex data.
@@ -35,8 +36,8 @@ A matrix can be multiplied by a scalar (a single number) by multiplying each ele
 kA = [kaᵢⱼ]
 
 Example:
-2 * [1, 2] = [2, 4]
-[3, 4]   [6, 8]
+2 \* [1, 2] = [2, 4]
+[3, 4] [6, 8]
 
 ## Matrix Multiplication
 
@@ -46,7 +47,7 @@ Two matrices can be multiplied if the number of columns in the first matrix equa
 
 Example:
 [1, 2] × [5, 6] = [(1×5 + 2×7), (1×6 + 2×8)] = [19, 22]
-[3, 4]   [7, 8]   [(3×5 + 4×7), (3×6 + 4×8)]   [43, 50]
+[3, 4] [7, 8] [(3×5 + 4×7), (3×6 + 4×8)] [43, 50]
 
 ## Properties of Matrix Operations
 
@@ -60,10 +61,11 @@ Example:
 The transpose of a matrix A, denoted as Aᵀ, is obtained by interchanging its rows and columns.
 
 Example:
-A = [1, 2]    Aᵀ = [1, 3]
-[3, 4]         [2, 4]
+A = [1, 2] Aᵀ = [1, 3]
+[3, 4] [2, 4]
 
 Properties:
+
 1. (Aᵀ)ᵀ = A
 2. (A + B)ᵀ = Aᵀ + Bᵀ
 3. (AB)ᵀ = BᵀAᵀ
@@ -82,6 +84,7 @@ I = [1, 0, 0]
 The inverse of a square matrix A, denoted as A⁻¹, is a matrix such that AA⁻¹ = A⁻¹A = I. Not all matrices have inverses; those that do are called invertible or non-singular.
 
 Properties:
+
 1. (A⁻¹)⁻¹ = A
 2. (AB)⁻¹ = B⁻¹A⁻¹
 3. (Aᵀ)⁻¹ = (A⁻¹)ᵀ
@@ -93,6 +96,7 @@ The trace of a square matrix is the sum of the elements on its main diagonal.
 tr(A) = Σᵢ aᵢᵢ
 
 Properties:
+
 1. tr(A + B) = tr(A) + tr(B)
 2. tr(kA) = k tr(A)
 3. tr(AB) = tr(BA)

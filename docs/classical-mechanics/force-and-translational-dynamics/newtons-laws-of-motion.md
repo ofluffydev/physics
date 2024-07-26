@@ -2,6 +2,7 @@
 title: Newton's Laws of Motion
 sidebar_position: 1
 ---
+
 # Newton's Laws of Motion
 
 ## Introduction
@@ -15,9 +16,10 @@ Newton's laws of motion, formulated by Sir Isaac Newton in the 17th century, for
 "An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force."
 
 Key points:
-- Introduces the concept of inertia
-- Implies the existence of inertial reference frames
-- Challenges the Aristotelian view that motion requires a constant force
+
+-   Introduces the concept of inertia
+-   Implies the existence of inertial reference frames
+-   Challenges the Aristotelian view that motion requires a constant force
 
 ### Second Law: Law of Force and Acceleration
 
@@ -26,65 +28,78 @@ Key points:
 Mathematically expressed as: F = ma
 
 Where:
-- F is the net force vector
-- m is the mass of the object
-- a is the acceleration vector
+
+-   F is the net force vector
+-   m is the mass of the object
+-   a is the acceleration vector
 
 Key points:
-- Defines force quantitatively
-- Introduces mass as a measure of an object's resistance to acceleration
-- Vector equation: direction of acceleration is the same as the net force
+
+-   Defines force quantitatively
+-   Introduces mass as a measure of an object's resistance to acceleration
+-   Vector equation: direction of acceleration is the same as the net force
 
 ### Third Law: Law of Action and Reaction
 
 "For every action, there is an equal and opposite reaction."
 
 Key points:
-- Forces always occur in pairs
-- Action and reaction forces act on different objects
-- Crucial for understanding the concept of momentum conservation
+
+-   Forces always occur in pairs
+-   Action and reaction forces act on different objects
+-   Crucial for understanding the concept of momentum conservation
 
 ## Key Concepts in Force and Translational Dynamics
 
 ### 1. Forces
-- Definition: A push or pull acting on an object
-- Types: Contact forces (e.g., friction, normal force) and long-range forces (e.g., gravity, electromagnetism)
-- Vector nature: Forces have both magnitude and direction
+
+-   Definition: A push or pull acting on an object
+-   Types: Contact forces (e.g., friction, normal force) and long-range forces (e.g., gravity, electromagnetism)
+-   Vector nature: Forces have both magnitude and direction
 
 ### 2. Free Body Diagrams
-- A visual tool for representing all forces acting on an object
-- Crucial for solving dynamics problems
+
+-   A visual tool for representing all forces acting on an object
+-   Crucial for solving dynamics problems
 
 ### 3. Friction
-- Static friction: Prevents motion between surfaces at rest
-- Kinetic friction: Acts between surfaces in relative motion
-- Coefficient of friction: μ (static μs, kinetic μk)
+
+-   Static friction: Prevents motion between surfaces at rest
+-   Kinetic friction: Acts between surfaces in relative motion
+-   Coefficient of friction: μ (static μs, kinetic μk)
 
 ### 4. Normal Force
-- Perpendicular force exerted by a surface on an object
+
+-   Perpendicular force exerted by a surface on an object
 
 ### 5. Tension
-- Force transmitted through a string, rope, or cable
+
+-   Force transmitted through a string, rope, or cable
 
 ### 6. Spring Force
-- Described by Hooke's Law: F = -kx
-- Where k is the spring constant and x is the displacement from equilibrium
+
+-   Described by Hooke's Law: F = -kx
+-   Where k is the spring constant and x is the displacement from equilibrium
 
 ## Application of Newton's Laws
 
 ### 1. Equilibrium
-- When net force is zero, acceleration is zero
-- Static equilibrium: Object at rest
-- Dynamic equilibrium: Object moving with constant velocity
+
+-   When net force is zero, acceleration is zero
+-   Static equilibrium: Object at rest
+-   Dynamic equilibrium: Object moving with constant velocity
 
 ### 2. Inclined Planes
-- Decomposition of forces into parallel and perpendicular components
+
+-   Decomposition of forces into parallel and perpendicular components
 
 ### 3. Connected Objects
-- Applying Newton's laws to systems of objects
+
+-   Applying Newton's laws to systems of objects
 
 ### 4. Circular Motion
-- Centripetal force: Force required for circular motion
+
+-   Centripetal force: Force required for circular motion
 
 ## Problem-Solving Approach
 
@@ -109,8 +124,8 @@ Solution:
    y-direction: N - mg cos(30°) = 0
 
 5. Solve:
-   a = g sin(30°) = 9.8 * 0.5 = 4.9 m/s²
-   N = mg cos(30°) = 2 * 9.8 * 0.866 = 17 N
+   a = g sin(30°) = 9.8 _ 0.5 = 4.9 m/s²
+   N = mg cos(30°) = 2 _ 9.8 \* 0.866 = 17 N
 
 6. Check: The acceleration is down the incline, as expected. The normal force is less than the weight of the block, which makes sense for an inclined plane.
 
@@ -141,9 +156,9 @@ Solution:
 
 ## Historical Context
 
-- Aristotelian physics: Motion requires a constant force
-- Galileo's experiments: Challenging Aristotelian views
-- Newton's Principia Mathematica (1687): Formal presentation of the laws of motion
+-   Aristotelian physics: Motion requires a constant force
+-   Galileo's experiments: Challenging Aristotelian views
+-   Newton's Principia Mathematica (1687): Formal presentation of the laws of motion
 
 ## Conclusion
 

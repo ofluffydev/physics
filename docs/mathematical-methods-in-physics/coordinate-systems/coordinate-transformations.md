@@ -2,6 +2,7 @@
 title: Coordinate Transformations
 sidebar_position: 4
 ---
+
 # Coordinate Transformations
 
 ## Introduction
@@ -13,6 +14,7 @@ Coordinate transformations are mathematical operations that convert the descript
 ### 1. Between Different Coordinate Systems
 
 #### a. Cartesian to Polar (2D)
+
 x = r cos(θ)
 y = r sin(θ)
 
@@ -20,6 +22,7 @@ r = √(x² + y²)
 θ = tan⁻¹(y/x)
 
 #### b. Cartesian to Spherical (3D)
+
 x = r sin(θ) cos(φ)
 y = r sin(θ) sin(φ)
 z = r cos(θ)
@@ -29,6 +32,7 @@ r = √(x² + y² + z²)
 φ = tan⁻¹(y/x)
 
 #### c. Cartesian to Cylindrical (3D)
+
 x = r cos(φ)
 y = r sin(φ)
 z = z
@@ -40,6 +44,7 @@ z = z
 ### 2. Within the Same Coordinate System
 
 #### a. Translation
+
 x' = x + a
 y' = y + b
 z' = z + c
@@ -47,11 +52,13 @@ z' = z + c
 Where (a, b, c) is the translation vector.
 
 #### b. Rotation
+
 For a rotation by angle α around the z-axis in 2D:
 x' = x cos(α) - y sin(α)
 y' = x sin(α) + y cos(α)
 
 #### c. Scaling
+
 x' = kx
 y' = ky
 z' = kz
@@ -63,24 +70,26 @@ Where k is the scaling factor.
 Many transformations can be represented as matrix operations:
 
 ### 1. 2D Rotation Matrix
+
 [x'] = [cos(α) -sin(α)] [x]
-[y']   [sin(α)  cos(α)] [y]
+[y'] [sin(α) cos(α)] [y]
 
 ### 2. 3D Rotation Matrices
+
 Around x-axis:
-[1      0       0   ]
-[0   cos(α) -sin(α)]
-[0   sin(α)  cos(α)]
+[1 0 0 ]
+[0 cos(α) -sin(α)]
+[0 sin(α) cos(α)]
 
 Around y-axis:
-[ cos(α)  0  sin(α)]
-[   0     1    0   ]
-[-sin(α)  0  cos(α)]
+[ cos(α) 0 sin(α)]
+[ 0 1 0 ]
+[-sin(α) 0 cos(α)]
 
 Around z-axis:
-[cos(α) -sin(α)  0]
-[sin(α)  cos(α)  0]
-[  0       0     1]
+[cos(α) -sin(α) 0]
+[sin(α) cos(α) 0]
+[ 0 0 1]
 
 ## Jacobian Matrix and Determinant
 
@@ -88,8 +97,8 @@ The Jacobian matrix represents the best linear approximation to a differentiable
 
 For a transformation from (x, y) to (u, v):
 
-J = [∂u/∂x  ∂u/∂y]
-[∂v/∂x  ∂v/∂y]
+J = [∂u/∂x ∂u/∂y]
+[∂v/∂x ∂v/∂y]
 
 The Jacobian determinant |J| gives the factor by which the transformation changes small volumes.
 
@@ -104,26 +113,31 @@ The Jacobian determinant |J| gives the factor by which the transformation change
 ## Important Concepts
 
 ### 1. Invariance
+
 Some quantities remain unchanged under certain transformations. For example, the distance between two points is invariant under rotations and translations.
 
 ### 2. Covariance
+
 The form of physical laws should be the same in all coordinate systems. This principle leads to tensor formulations of physical laws.
 
 ### 3. Active vs. Passive Transformations
-- Active: Actually moving the object
-- Passive: Changing the coordinate system while the object remains fixed
+
+-   Active: Actually moving the object
+-   Passive: Changing the coordinate system while the object remains fixed
 
 ## Examples
 
 ### 1. Transforming a Vector Field
+
 Consider the vector field F = (y, -x) in Cartesian coordinates. In polar coordinates:
 
-F_r = y cos(θ) - x sin(θ) = -r sin²(θ) - r cos²(θ) = -r
-F_θ = -y sin(θ) - x cos(θ) = r sin(θ) cos(θ) - r sin(θ) cos(θ) = 0
+F*r = y cos(θ) - x sin(θ) = -r sin²(θ) - r cos²(θ) = -r
+F*θ = -y sin(θ) - x cos(θ) = r sin(θ) cos(θ) - r sin(θ) cos(θ) = 0
 
 So, F = (-r, 0) in polar coordinates.
 
 ### 2. Lorentz Transformation (Special Relativity)
+
 For a boost in the x-direction with velocity v:
 
 t' = γ(t - vx/c²)

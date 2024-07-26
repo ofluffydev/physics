@@ -2,6 +2,7 @@
 title: Eigenvalues and eigenvectors
 sidebar_position: 4
 ---
+
 # Eigenvalues and Eigenvectors
 
 Eigenvalues and eigenvectors are fundamental concepts in linear algebra with wide-ranging applications in physics, engineering, and data science. They provide crucial information about linear transformations and are essential in many mathematical and scientific computations.
@@ -25,6 +26,7 @@ In other words, an eigenvector is a vector that, when transformed by the matrix,
 3. **Number of Eigenvalues**: An n×n matrix has at most n distinct eigenvalues.
 
 4. **Trace and Determinant**:
+
     - The sum of the eigenvalues equals the trace of the matrix.
     - The product of the eigenvalues equals the determinant of the matrix.
 
@@ -52,15 +54,16 @@ For each eigenvalue λ:
 
 ### 3. Algebraic and Geometric Multiplicities
 
-- The algebraic multiplicity of an eigenvalue is its multiplicity as a root of the characteristic equation.
-- The geometric multiplicity is the dimension of the eigenspace (the space spanned by the eigenvectors) for that eigenvalue.
-- The geometric multiplicity is always less than or equal to the algebraic multiplicity.
+-   The algebraic multiplicity of an eigenvalue is its multiplicity as a root of the characteristic equation.
+-   The geometric multiplicity is the dimension of the eigenspace (the space spanned by the eigenvectors) for that eigenvalue.
+-   The geometric multiplicity is always less than or equal to the algebraic multiplicity.
 
 ## Diagonalization
 
 A matrix A is diagonalizable if it can be written as A = PDP^(-1), where D is a diagonal matrix of eigenvalues and P is a matrix whose columns are the corresponding eigenvectors.
 
 Conditions for diagonalizability:
+
 1. A has n linearly independent eigenvectors (where n is the dimension of A).
 2. The geometric multiplicity equals the algebraic multiplicity for each eigenvalue.
 
@@ -93,16 +96,20 @@ Conditions for diagonalizability:
 ## Special Cases and Related Concepts
 
 1. **Symmetric Matrices**:
+
     - All eigenvalues are real.
     - Eigenvectors corresponding to distinct eigenvalues are orthogonal.
 
 2. **Hermitian Matrices**:
+
     - Similar properties to symmetric matrices, but for complex matrices.
 
 3. **Orthogonal Matrices**:
+
     - All eigenvalues have absolute value 1.
 
 4. **Singular Value Decomposition (SVD)**:
+
     - A generalization of the eigendecomposition to rectangular matrices.
 
 5. **Jordan Canonical Form**:

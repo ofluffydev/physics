@@ -2,6 +2,7 @@
 title: Integration of Vectors
 sidebar_position: 3
 ---
+
 # Integration of Vectors
 
 Vector integration is a fundamental concept in vector calculus that extends the principles of scalar integration to vector-valued functions. This process is crucial for understanding accumulation and total change in multidimensional systems, with wide-ranging applications in physics, engineering, and advanced mathematics.
@@ -50,15 +51,18 @@ Where ∫x(t)dt, ∫y(t)dt, and ∫z(t)dt are the indefinite integrals of the sc
 ## Applications
 
 1. **Physics**:
+
     - Calculating work done by a variable force.
     - Finding center of mass of a system.
     - Determining fluid flow in a vector field.
 
 2. **Engineering**:
+
     - Analyzing stress and strain in materials.
     - Calculating moments of inertia.
 
 3. **Computer Graphics**:
+
     - Generating smooth curves and surfaces.
 
 4. **Economics**:

@@ -2,6 +2,7 @@
 title: Dynamics of Systems of Particles
 sidebar_position: 5
 ---
+
 # Dynamics of Systems of Particles
 
 ## Introduction
@@ -28,9 +29,9 @@ The motion of a system of particles can be described using Newton's Second Law a
 
 ![img_1.png](img_1.png)
 
-F_i = m_i * a_i
+F_i = m_i \* a_i
 
-((Net Force on Particle i) = (Mass of Particle i) * (Acceleration of Particle i))
+((Net Force on Particle i) = (Mass of Particle i) \* (Acceleration of Particle i))
 
 Where F_i is the net force on particle i, m_i is its mass, and a_i is its acceleration.
 
@@ -40,9 +41,9 @@ The motion of the center of mass (CM) of a system of particles follows:
 
 ![img_2.png](img_2.png)
 
-F_ext = M * A_cm
+F_ext = M \* A_cm
 
-((External Force) = (Total Mass) * (Acceleration of Center of Mass))
+((External Force) = (Total Mass) \* (Acceleration of Center of Mass))
 
 Where F_ext is the sum of all external forces, M is the total mass of the system, and A_cm is the acceleration of the center of mass.
 

@@ -2,6 +2,7 @@
 title: Dot product and cross product
 sidebar_position: 5
 ---
+
 # Dot Product and Cross Product
 
 ## Introduction
@@ -61,13 +62,13 @@ Where n is a unit vector perpendicular to both A and B, following the right-hand
 
 ### Properties
 
-1. Anti-commutative: A × B = -(B × A) 
+1. Anti-commutative: A × B = -(B × A)
 
-   Anti-commutative means that the order of the vectors matters, and the result is negated when the order is reversed.
+    Anti-commutative means that the order of the vectors matters, and the result is negated when the order is reversed.
 
 2. Distributive over addition: A × (B + C) = (A × B) + (A × C)
 
-   Distributive property means that the cross product distributes over vector addition.
+    Distributive property means that the cross product distributes over vector addition.
 
 3. Not associative: A × (B × C) ≠ (A × B) × C
 
@@ -99,14 +100,17 @@ A × B = (a₂b₃ - a₃b₂, a₃b₁ - a₁b₃, a₁b₂ - a₂b₁)
 ## Comparison of Dot and Cross Products
 
 1. **Result**:
+
     - Dot product: Scalar
     - Cross product: Vector
 
 2. **Geometric Interpretation**:
+
     - Dot product: Projection of one vector onto another
     - Cross product: Area of parallelogram formed by two vectors
 
 3. **Commutativity**:
+
     - Dot product: Commutative
     - Cross product: Anti-commutative
 
@@ -119,12 +123,12 @@ A × B = (a₂b₃ - a₃b₂, a₃b₁ - a₁b₃, a₁b₂ - a₂b₁)
 1. **Dot Product Example**:
    Calculate the work done by a force F = (3, 4, 0) N moving an object through a displacement d = (2, 2, 1) m.
 
-   Work = F · d = (3)(2) + (4)(2) + (0)(1) = 6 + 8 + 0 = 14 J
+    Work = F · d = (3)(2) + (4)(2) + (0)(1) = 6 + 8 + 0 = 14 J
 
 2. **Cross Product Example**:
    Find the torque produced by a force F = (2, 0, -3) N applied at a point r = (0, 4, 0) m from the axis of rotation.
 
-   τ = r × F = (0, 4, 0) × (2, 0, -3) = (12, 0, 8) N·m
+    τ = r × F = (0, 4, 0) × (2, 0, -3) = (12, 0, 8) N·m
 
 ## Conclusion
 

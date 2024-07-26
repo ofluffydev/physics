@@ -2,6 +2,7 @@
 title: Gradient, Divergence, and Curl
 sidebar_position: 4
 ---
+
 # Gradient, Divergence, and Curl
 
 Gradient, divergence, and curl are three fundamental vector operators in vector calculus. These operators are essential for describing and analyzing vector fields, with wide-ranging applications in physics, engineering, and mathematics.
@@ -26,9 +27,9 @@ Where ∇ (del) is the gradient operator, and ∂f/∂x, ∂f/∂y, and ∂f/∂
 
 ### Applications
 
-- Finding the direction of steepest ascent or descent on a surface
-- Calculating potential energy in physics
-- Optimization problems in mathematics
+-   Finding the direction of steepest ascent or descent on a surface
+-   Calculating potential energy in physics
+-   Optimization problems in mathematics
 
 ## Divergence
 
@@ -54,9 +55,9 @@ Divergence measures the "outflowing-ness" of a vector field at each point. Posit
 
 ### Applications
 
-- Fluid dynamics: measuring the rate of fluid expansion or compression
-- Electromagnetism: describing electric and magnetic fields
-- Heat flow: analyzing heat sources and sinks
+-   Fluid dynamics: measuring the rate of fluid expansion or compression
+-   Electromagnetism: describing electric and magnetic fields
+-   Heat flow: analyzing heat sources and sinks
 
 ## Curl
 
@@ -82,17 +83,19 @@ Curl measures the rotation or circulation of a vector field at each point.
 
 ### Applications
 
-- Fluid dynamics: measuring vorticity in fluid flow
-- Electromagnetism: describing magnetic fields
-- Elasticity: analyzing stress and strain in materials
+-   Fluid dynamics: measuring vorticity in fluid flow
+-   Electromagnetism: describing magnetic fields
+-   Elasticity: analyzing stress and strain in materials
 
 ## Relationships Between Operators
 
 1. **Gradient of Scalar Fields**:
+
     - The curl of a gradient is always zero: ∇ × (∇f) = 0
     - This implies that gradient fields are irrotational
 
 2. **Divergence of Curl**:
+
     - The divergence of a curl is always zero: ∇ · (∇ × **F**) = 0
 
 3. **Laplacian**:
@@ -113,11 +116,13 @@ Where f is a scalar function and **F** and **A** are vector functions.
 ## Applications in Physics
 
 1. **Electromagnetism**:
+
     - Gauss's law: ∇ · **E** = ρ/ε₀
     - Faraday's law: ∇ × **E** = -∂**B**/∂t
     - Ampère's law: ∇ × **B** = μ₀**J** + μ₀ε₀ ∂**E**/∂t
 
 2. **Fluid Dynamics**:
+
     - Continuity equation: ∂ρ/∂t + ∇ · (ρ**v**) = 0
     - Vorticity: ω = ∇ × **v**
 

@@ -2,6 +2,7 @@
 title: Unit Vectors and Vector Components
 sidebar_position: 6
 ---
+
 # Unit Vectors and Vector Components
 
 ## Introduction
@@ -21,9 +22,10 @@ A unit vector is a vector with a magnitude of 1 and no units. It's used to speci
 ### Standard Unit Vectors
 
 In a 3D Cartesian coordinate system, we use three standard unit vectors:
-- î: unit vector in the x-direction (1, 0, 0)
-- ĵ: unit vector in the y-direction (0, 1, 0)
-- k̂: unit vector in the z-direction (0, 0, 1)
+
+-   î: unit vector in the x-direction (1, 0, 0)
+-   ĵ: unit vector in the y-direction (0, 1, 0)
+-   k̂: unit vector in the z-direction (0, 0, 1)
 
 ### Creating a Unit Vector
 
@@ -94,19 +96,19 @@ The direction of a vector can be described by angles with respect to the coordin
 1. **Finding Components**:
    Given a vector A = 10 units, 30° above the x-axis in the xy-plane, find its components.
 
-   A_x = 10 cos(30°) ≈ 8.66 units
-   A_y = 10 sin(30°) = 5 units
-   A_z = 0
+    A_x = 10 cos(30°) ≈ 8.66 units
+    A_y = 10 sin(30°) = 5 units
+    A_z = 0
 
-   A = 8.66î + 5ĵ + 0k̂
+    A = 8.66î + 5ĵ + 0k̂
 
 2. **Creating a Unit Vector**:
    For the vector B = 3î - 4ĵ + 5k̂, find the unit vector in its direction.
 
-   |B| = √(3² + (-4)² + 5²) = √50 ≈ 7.07
+    |B| = √(3² + (-4)² + 5²) = √50 ≈ 7.07
 
-   û = B / |B| = (3/7.07)î + (-4/7.07)ĵ + (5/7.07)k̂
-   ≈ 0.42î - 0.57ĵ + 0.71k̂
+    û = B / |B| = (3/7.07)î + (-4/7.07)ĵ + (5/7.07)k̂
+    ≈ 0.42î - 0.57ĵ + 0.71k̂
 
 ## Conclusion
 

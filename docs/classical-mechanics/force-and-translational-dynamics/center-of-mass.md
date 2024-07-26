@@ -2,6 +2,7 @@
 title: Center of mass
 sidebar_position: 6
 ---
+
 # Center of Mass
 
 ## Introduction
@@ -16,22 +17,24 @@ The center of mass is the point in a body or system of bodies where, for many pu
 
 For a system of discrete particles:
 
-R_cm = (Σ m_i * r_i) / M
+R_cm = (Σ m_i \* r_i) / M
 
 Where:
-- R_cm is the position vector of the center of mass
-- m_i is the mass of the i-th particle
-- r_i is the position vector of the i-th particle
-- M is the total mass of the system (M = Σ m_i)
+
+-   R_cm is the position vector of the center of mass
+-   m_i is the mass of the i-th particle
+-   r_i is the position vector of the i-th particle
+-   M is the total mass of the system (M = Σ m_i)
 
 For continuous bodies:
 
 R_cm = (∫ r dm) / M
 
 Where:
-- r is the position vector
-- dm is an infinitesimal mass element
-- M is the total mass of the body
+
+-   r is the position vector
+-   dm is an infinitesimal mass element
+-   M is the total mass of the body
 
 ## Properties of Center of Mass
 
@@ -52,7 +55,7 @@ Where:
 1. Choose a coordinate system.
 2. Determine the mass and position of each particle.
 3. Calculate the total mass of the system.
-4. Use the formula: x_cm = (Σ m_i * x_i) / M for each coordinate.
+4. Use the formula: x_cm = (Σ m_i \* x_i) / M for each coordinate.
 
 ### For Continuous Bodies
 

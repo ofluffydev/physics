@@ -2,6 +2,7 @@
 title: Complex exponentials
 sidebar_position: 4
 ---
+
 # Complex Exponentials
 
 Complex exponentials extend the concept of exponential functions to the complex plane, providing a powerful tool for understanding oscillatory phenomena and periodic behavior in various fields of mathematics, physics, and engineering.
@@ -10,7 +11,7 @@ Complex exponentials extend the concept of exponential functions to the complex 
 
 For a complex number z = x + yi, the complex exponential is defined as:
 
-e^z = e^(x+yi) = e^x * e^(yi) = e^x (cos y + i sin y)
+e^z = e^(x+yi) = e^x \* e^(yi) = e^x (cos y + i sin y)
 
 This definition is consistent with Euler's Formula: e^(iy) = cos y + i sin y
 
@@ -19,11 +20,11 @@ This definition is consistent with Euler's Formula: e^(iy) = cos y + i sin y
 1. **Periodicity**: e^(z+2πi) = e^z
    This means complex exponentials are periodic in the imaginary direction with period 2πi.
 
-2. **Multiplicative Property**: e^(z₁ + z₂) = e^z₁ * e^z₂
+2. **Multiplicative Property**: e^(z₁ + z₂) = e^z₁ \* e^z₂
 
-3. **Complex Conjugate**: (e^z)* = e^(z*)
+3. **Complex Conjugate**: (e^z)_ = e^(z_)
 
-4. **Inverse**: e^z * e^(-z) = 1
+4. **Inverse**: e^z \* e^(-z) = 1
 
 5. **Derivative**: d/dz (e^z) = e^z
 
@@ -63,10 +64,12 @@ This definition is consistent with Euler's Formula: e^(iy) = cos y + i sin y
 1. **Polar Form**: r e^(iθ) is the polar form of a complex number.
 
 2. **Hyperbolic Functions**:
+
     - cosh z = (e^z + e^(-z)) / 2
     - sinh z = (e^z - e^(-z)) / 2
 
 3. **Trigonometric Functions**:
+
     - cos z = (e^(iz) + e^(-iz)) / 2
     - sin z = (e^(iz) - e^(-iz)) / 2i
 

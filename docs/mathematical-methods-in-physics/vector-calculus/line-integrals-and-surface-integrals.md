@@ -2,6 +2,7 @@
 title: Line integrals and surface integrals
 sidebar_position: 5
 ---
+
 # Line Integrals and Surface Integrals
 
 Line integrals and surface integrals are advanced concepts in vector calculus that extend the idea of integration to curves in space and surfaces. These concepts are crucial for understanding and solving problems in physics, engineering, and mathematics.
@@ -36,9 +37,9 @@ For a parametrized curve **r**(t) = &lt;x(t), y(t), z(t)&gt;, t ∈ [a,b], the l
 
 ### Applications
 
-- Work done by a force field
-- Fluid flow along a path
-- Electric potential difference in an electric field
+-   Work done by a force field
+-   Fluid flow along a path
+-   Electric potential difference in an electric field
 
 ## Surface Integrals
 
@@ -70,9 +71,9 @@ Where **r**u and **r**v are partial derivatives with respect to u and v.
 
 ### Applications
 
-- Flux of a fluid through a surface
-- Electric flux in electromagnetism
-- Heat flow through a surface
+-   Flux of a fluid through a surface
+-   Electric flux in electromagnetism
+-   Heat flow through a surface
 
 ## Relationships and Theorems
 
@@ -88,14 +89,17 @@ Where **r**u and **r**v are partial derivatives with respect to u and v.
 ## Applications in Physics and Engineering
 
 1. **Electromagnetism**:
+
     - Calculating electric and magnetic fields
     - Determining electromagnetic flux
 
 2. **Fluid Dynamics**:
+
     - Analyzing fluid flow through surfaces
     - Computing circulation of a fluid
 
 3. **Heat Transfer**:
+
     - Calculating heat flow through surfaces
 
 4. **Mechanics**:

@@ -2,6 +2,7 @@
 title: Differentiation of Vectors
 sidebar_position: 2
 ---
+
 # Differentiation of Vectors
 
 In vector calculus, the differentiation of vectors is a fundamental concept that extends the idea of derivatives from scalar functions to vector-valued functions. This process is crucial for understanding rates of change in multiple dimensions and has wide-ranging applications in physics and engineering.
@@ -25,16 +26,18 @@ Where x'(t), y'(t), and z'(t) are the derivatives of the scalar functions x(t), 
 ## Properties of Vector Derivatives
 
 1. **Linearity**:
+
     - (a**u** + b**v**)' = a**u**' + b**v**'
       Where a and b are scalars, and **u** and **v** are vector functions.
 
 2. **Product Rule**:
+
     - (f**v**)' = f'**v** + f**v**'
       Where f is a scalar function and **v** is a vector function.
 
 3. **Chain Rule**:
     - If **r**(u) is a vector function of u, and u = g(t) is a scalar function of t, then:
-      d**r**/dt = (d**r**/du) * (du/dt)
+      d**r**/dt = (d**r**/du) \* (du/dt)
 
 ## Geometric Interpretation
 
@@ -49,9 +52,9 @@ Where x'(t), y'(t), and z'(t) are the derivatives of the scalar functions x(t), 
 
 Just as with scalar functions, we can take higher-order derivatives of vector functions:
 
-- Second derivative: **r**''(t) = (**r**'(t))'
-- Third derivative: **r**'''(t) = (**r**''(t))'
-- And so on...
+-   Second derivative: **r**''(t) = (**r**'(t))'
+-   Third derivative: **r**'''(t) = (**r**''(t))'
+-   And so on...
 
 ## Applications
 

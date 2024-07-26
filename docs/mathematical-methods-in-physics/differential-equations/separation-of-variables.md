@@ -2,6 +2,7 @@
 title: Separation of Variables
 sidebar_position: 3
 ---
+
 # Separation of Variables
 
 Separation of Variables is a powerful method for solving certain types of partial differential equations (PDEs). It's particularly useful for linear PDEs in simple geometries and is often one of the first analytical methods taught for solving PDEs.
@@ -29,8 +30,9 @@ For the 1D heat equation: ∂u/∂t = α∂²u/∂x²
 Assume u(x,t) = X(x)T(t)
 
 This leads to:
-- T'(t)/αT(t) = X''(x)/X(x) = -λ²
-- Two ODEs: T'(t) + αλ²T(t) = 0 and X''(x) + λ²X(x) = 0
+
+-   T'(t)/αT(t) = X''(x)/X(x) = -λ²
+-   Two ODEs: T'(t) + αλ²T(t) = 0 and X''(x) + λ²X(x) = 0
 
 ### 2. Wave Equation
 
@@ -39,8 +41,9 @@ For the 1D wave equation: ∂²u/∂t² = c²∂²u/∂x²
 Assume u(x,t) = X(x)T(t)
 
 This leads to:
-- T''(t)/c²T(t) = X''(x)/X(x) = -λ²
-- Two ODEs: T''(t) + c²λ²T(t) = 0 and X''(x) + λ²X(x) = 0
+
+-   T''(t)/c²T(t) = X''(x)/X(x) = -λ²
+-   Two ODEs: T''(t) + c²λ²T(t) = 0 and X''(x) + λ²X(x) = 0
 
 ### 3. Laplace's Equation
 
@@ -49,8 +52,9 @@ For Laplace's equation in 2D: ∂²u/∂x² + ∂²u/∂y² = 0
 Assume u(x,y) = X(x)Y(y)
 
 This leads to:
-- X''(x)/X(x) = -Y''(y)/Y(y) = λ²
-- Two ODEs: X''(x) - λ²X(x) = 0 and Y''(y) + λ²Y(y) = 0
+
+-   X''(x)/X(x) = -Y''(y)/Y(y) = λ²
+-   Two ODEs: X''(x) - λ²X(x) = 0 and Y''(y) + λ²Y(y) = 0
 
 ## Steps in Detail
 

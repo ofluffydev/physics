@@ -2,6 +2,7 @@
 title: Work-Energy Theorem
 sidebar_position: 1
 ---
+
 # Work-Energy Theorem
 
 ## Introduction
@@ -15,8 +16,9 @@ The Work-Energy Theorem states that the net work done on an object is equal to t
 Mathematically: W_net = ΔK
 
 Where:
-- W_net is the net work done on the object
-- ΔK is the change in kinetic energy of the object
+
+-   W_net is the net work done on the object
+-   ΔK is the change in kinetic energy of the object
 
 ## Key Concepts
 
@@ -27,10 +29,11 @@ Work is defined as the product of force and displacement in the direction of the
 W = F · d = F d cos(θ)
 
 Where:
-- W is work
-- F is force
-- d is displacement
-- θ is the angle between force and displacement vectors
+
+-   W is work
+-   F is force
+-   d is displacement
+-   θ is the angle between force and displacement vectors
 
 ### 2. Kinetic Energy
 
@@ -39,9 +42,10 @@ Kinetic energy is the energy an object possesses due to its motion.
 K = 1/2 mv^2
 
 Where:
-- K is kinetic energy
-- m is mass
-- v is velocity
+
+-   K is kinetic energy
+-   m is mass
+-   v is velocity
 
 ## Mathematical Derivation
 
@@ -70,21 +74,25 @@ The Work-Energy Theorem can be derived from Newton's Second Law:
 ## Example Problems
 
 ### Problem 1: Block on a Frictionless Incline
+
 A 2 kg block slides down a frictionless incline that is 5 m long and inclined at 30° to the horizontal. If the block starts from rest, what is its speed at the bottom of the incline?
 
 TODO: Add solution.
 
 ### Problem 2: Work Done by a Variable Force
+
 A force F(x) = (3x^2 + 2x) N acts on a 1 kg particle as it moves along the x-axis from x = 0 to x = 2 m. If the particle starts from rest, what is its final velocity?
 
 TODO: Add solution.
 
 ### Problem 3: Stopping Distance
+
 A 1500 kg car is traveling at 20 m/s when the driver applies the brakes. If the coefficient of kinetic friction between the tires and the road is 0.6, how far does the car travel before coming to a stop?
 
 TODO: Add solution.
 
 ### Problem 4: Compound System
+
 A 50 kg crate is pushed up a rough incline (coefficient of friction μ = 0.2) that is 3 m high and 4 m long. If a horizontal force of 500 N is applied to the crate, what is its speed at the top of the incline if it starts from rest at the bottom?
 
 TODO: Add solution.

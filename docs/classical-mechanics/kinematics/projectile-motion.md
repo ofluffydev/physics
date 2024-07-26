@@ -2,6 +2,7 @@
 title: Projectile Motion
 sidebar_position: 7
 ---
+
 # Projectile Motion
 
 ## Introduction
@@ -11,6 +12,7 @@ Projectile motion is a form of motion in which an object (called a projectile) i
 ## Key Concepts
 
 1. Projectile motion is a combination of:
+
     - Constant velocity motion in the horizontal direction
     - Accelerated motion (due to gravity) in the vertical direction
 
@@ -28,23 +30,27 @@ Projectile motion is a form of motion in which an object (called a projectile) i
 ## Key Equations
 
 ### Horizontal Motion
-1. x = x₀ + v₀x * t
+
+1. x = x₀ + v₀x \* t
 2. vx = v₀x (constant)
 
 ### Vertical Motion
-1. y = y₀ + v₀y * t - ½gt²
+
+1. y = y₀ + v₀y \* t - ½gt²
 2. vy = v₀y - gt
 
 ### Initial Velocity Components
-1. v₀x = v₀ * cos(θ)
-2. v₀y = v₀ * sin(θ)
+
+1. v₀x = v₀ \* cos(θ)
+2. v₀y = v₀ \* sin(θ)
 
 Where:
-- x, y: position
-- v₀: initial velocity
-- θ: launch angle
-- t: time
-- g: acceleration due to gravity
+
+-   x, y: position
+-   v₀: initial velocity
+-   θ: launch angle
+-   t: time
+-   g: acceleration due to gravity
 
 ## Important Parameters
 
@@ -55,15 +61,19 @@ Where:
 ## Derivations and Formulas
 
 ### 1. Time to reach maximum height
+
 t_max = v₀y / g
 
 ### 2. Maximum height
+
 h_max = v₀y² / (2g)
 
 ### 3. Range (R) for launch and landing at same height
-R = (v₀² * sin(2θ)) / g
+
+R = (v₀² \* sin(2θ)) / g
 
 ### 4. Angle for maximum range
+
 θ_max = 45° (when launch and landing heights are the same)
 
 ## Problem-Solving Approach
@@ -85,18 +95,18 @@ Solution:
 Given: v₀ = 40 m/s, θ = 30°, g = 9.8 m/s²
 
 Step 1: Calculate initial velocity components
-v₀x = v₀ * cos(θ) = 40 * cos(30°) = 34.64 m/s
-v₀y = v₀ * sin(θ) = 40 * sin(30°) = 20 m/s
+v₀x = v₀ _ cos(θ) = 40 _ cos(30°) = 34.64 m/s
+v₀y = v₀ _ sin(θ) = 40 _ sin(30°) = 20 m/s
 
 a) Maximum height:
-h_max = v₀y² / (2g) = 20² / (2 * 9.8) = 20.41 m
+h_max = v₀y² / (2g) = 20² / (2 \* 9.8) = 20.41 m
 
 b) Time of flight:
 Time to reach max height: t_up = v₀y / g = 20 / 9.8 = 2.04 s
-Total time of flight: t_total = 2 * t_up = 2 * 2.04 = 4.08 s
+Total time of flight: t_total = 2 _ t_up = 2 _ 2.04 = 4.08 s
 
 c) Range:
-R = v₀x * t_total = 34.64 * 4.08 = 141.33 m
+R = v₀x _ t_total = 34.64 _ 4.08 = 141.33 m
 
 ## Applications of Projectile Motion
 

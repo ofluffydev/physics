@@ -2,6 +2,7 @@
 title: Euler's formula
 sidebar_position: 3
 ---
+
 # Euler's Formula
 
 Euler's Formula is a mathematical equation that establishes the fundamental relationship between trigonometric functions and the complex exponential function. It is named after the Swiss mathematician Leonhard Euler and is considered one of the most beautiful equations in mathematics.
@@ -13,9 +14,10 @@ Euler's Formula states that for any real number x:
 e^(ix) = cos x + i sin x
 
 where:
-- e is the base of natural logarithms
-- i is the imaginary unit (i² = -1)
-- x is a real number, typically considered as an angle in radians
+
+-   e is the base of natural logarithms
+-   i is the imaginary unit (i² = -1)
+-   x is a real number, typically considered as an angle in radians
 
 ## Derivation
 
@@ -39,6 +41,7 @@ Separating the real and imaginary parts of the e^(ix) series, we get the cos x a
 ## Applications
 
 1. **Trigonometry**: Simplifies many trigonometric identities
+
     - cos x = (e^(ix) + e^(-ix)) / 2
     - sin x = (e^(ix) - e^(-ix)) / 2i
 
