@@ -11,6 +11,10 @@ Welcome to my physics course!
 
 As always, here are the list of rules for the course:
 
+As always, I included the [Learning To Learn](/docs/category/learning-to-learn) section I highly recommend you read before continuing. 😊
+
+If there is any physics topic, lesson, concept, or problem you would like me to cover, please let me know by creating an [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) on the [GitHub repository](https://github.com/ofluffydev/physics) or contacting me directly at [support@kadenfrisk.com](mailto:support@kadenfrisk.com). I'm always open to suggestions and feedback.
+
 ## Rules
 
 **IF THIS TEXT IS STILL HERE, THE COURSE IS NOT FINISHED AND MAY NOT COMPLY WITH ALL OF THESE RULES YET.**
@@ -29,9 +33,9 @@ The following **rules** apply to every page and topic on this platform:
 
 Good luck!
 
+:::tip
 For AP Physics students, I have a [list specifically for you](ap-physics-list.md).
-
-For everyone else interested in physics:
+:::
 
 ## Comprehensive Physics Topics (Beginner to Advanced)
 
@@ -111,7 +115,7 @@ Read this first:
 -   [Numerical integration](/docs/mathematical-methods-in-physics/numerical-methods/numerical-integration)
 -   [Root-finding algorithms](/docs/mathematical-methods-in-physics/numerical-methods/root-finding-algorithms)
 -   [Interpolation and extrapolation](/docs/mathematical-methods-in-physics/numerical-methods/interpolation-and-extrapolation)
--   Finite difference methods
+-   [Finite difference methods](/docs/mathematical-methods-in-physics/numerical-methods/finite-difference-methods)
 
 Each of these topics plays a crucial role in various areas of physics:
 

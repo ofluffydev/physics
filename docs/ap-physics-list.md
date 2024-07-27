@@ -1,7 +1,7 @@
 ---
 title: AP Course List
 description: List specifically for AP Physics students
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 List specifically for AP Physics students. (Please still read the [introduction](/docs/intro) for this course.)
@@ -26,18 +26,16 @@ Kinematics is the study of motion without considering its causes. This unit cove
 -   Displacement, velocity, and acceleration
     -   Has its own page [here](/docs/classical-mechanics/kinematics/displacement-velocity-and-acceleration).
 -   Representing motion
-
     -   This section focuses on graphing and showing motion, which can be done with the following:
-
         -   Position-time graphs
         -   Velocity-time graphs
         -   Mathematical equations
         -   Vector notation
-
-        These are covered [here](/docs/classical-mechanics/kinematics/kinematics-intro) but will be getting their own pages soon.
-
+            These are covered [here](/docs/classical-mechanics/kinematics/kinematics-intro) but will be getting their own pages soon.
 -   Reference frames and relative motion
+    -   Relative motion has its own page [here](/docs/classical-mechanics/kinematics/relative-motion).
 -   Vectors and motion in two dimensions
+    -   2D motion has its own page [here](/docs/classical-mechanics/kinematics/two-dimensional-motion).
 
 ### Unit 2: Force and Translational Dynamics
 
